@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[481362],{212453(e){e.exports="/luminescent-team-esp/pokedex/deoxys-forma-normal"}}]);

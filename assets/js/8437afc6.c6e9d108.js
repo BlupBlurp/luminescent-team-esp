@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[395807],{615732(e){e.exports="/luminescent-team-esp/pokedex/hisui-typhlosion"}}]);

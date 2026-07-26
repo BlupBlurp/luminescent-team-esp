@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[521820],{838084(e){e.exports="/luminescent-team-esp/pokedex/rotom-lavado"}}]);

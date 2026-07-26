@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[949714],{865397(e){e.exports="/luminescent-team-esp/pokedex/grimer-de-alola"}}]);

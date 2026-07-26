@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[759993],{56120(e){e.exports="/luminescent-team-esp/pokedex/alola-geodude"}}]);
