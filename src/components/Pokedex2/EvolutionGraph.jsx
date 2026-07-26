@@ -62,7 +62,7 @@ export default function EvolutionGraph({ evolutionTree }) {
       <div className="row" style={{ margin: 'auto', textAlign: 'center' }}>
         <span className="col col-12">
           <Typography variant="h6" sx={{ margin: 'auto' }}>
-            Evolutions
+            Evoluciones
           </Typography>
         </span>
       </div>
@@ -304,7 +304,7 @@ export default function EvolutionGraph({ evolutionTree }) {
       <Grid container>
         <Grid item xs={12}>
           <Typography variant="h6" sx={{ margin: 'auto', textAlign: 'center' }}>
-            Evolutions
+            Evoluciones
           </Typography>
         </Grid>
 

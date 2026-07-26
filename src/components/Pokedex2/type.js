@@ -32,7 +32,7 @@ export default function Type(props) {
     if (props.type1 === props.type2) {
         return (
             <Typography variant="h6" component="h6" style={{ padding: '4px', gap: '0.25rem', display: 'flex-wrap' }}>
-                Types: <br />
+                Tipos: <br />
                 <div className={style.typeBg} style={TYPECOLOR_MAP[props.type1]}>
                     <div className={style.bTransparent}>
                         {props.type1}
@@ -44,7 +44,7 @@ export default function Type(props) {
 
     return (
         <Typography variant="h6" component="h6" className={style.flex}>
-            <p style={{ width: '100%' }}>Types: </p>
+            <p style={{ width: '100%' }}>Tipos: </p>
             <div className={style.typeBg} style={TYPECOLOR_MAP[props.type1]}>
                 <div className={style.bTransparent}>
                     {props.type1}

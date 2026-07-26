@@ -19,7 +19,7 @@ export const MapperTabPanel = ({
   routeId
 }) => {
   return (
-    <PokemonTabPanel tabNames={["Encounters", "Trainers", "Items", "Shops"]}>
+    <PokemonTabPanel tabNames={["Encounters", "Entrenadores", "Items", "Shops"]}>
       <EncountersPanel
         encOptions={encOptions}
         handleOptionChange={handleOptionChange}

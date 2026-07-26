@@ -29,7 +29,7 @@ const TrainersPanel = ({
               margin: "8px 0px 8px"
             }}
           >
-            Trainers
+            Entrenadores
           </Typography>
           {selectedTrainer && !smallest && (
             <Button
