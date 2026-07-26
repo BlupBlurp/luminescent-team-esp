@@ -59,8 +59,8 @@ const ShopTable2 = require('./gamedata2.0/ShopTable.json');
 const EvolutionData2 = require('./gamedata2.0/evolution.json');
 
 //All the Location files
-const displayNames2 =  require('./gamedata2.0/english_dp_fld_areaname_display.json');
-const areaNames2 =  require('./gamedata2.0/english_dp_fld_areaname.json');
+const displayNames2 =  require('./gamedata2.0/spanish_dp_fld_areaname_display.json');
+const areaNames2 =  require('./gamedata2.0/spanish_dp_fld_areaname.json');
 const mapInfo2 =  require('./gamedata2.0/MapInfo.json');
 const encounterLocations2 =  require('./gamedata2.0/encounter_locations.json');
 const pokemonLocations2 =  require('./gamedata2.0/pokemon_locations.json');
@@ -71,21 +71,21 @@ const staticLocations2 =  require('./gamedata2.0/static_pokemon_locations.json')
 const staticAreaLocations2 =  require('./gamedata2.0/static_area_locations.json');
 
 //All the Pokemon english files
-const basePokemonNames2 = require('./gamedata2.0/english_ss_monsname.json');
-const formPokemonNames2 = require('./gamedata2.0/english_ss_zkn_form.json');
-const pokemonHeight2 = require('./gamedata2.0/english_ss_zkn_height.json');
-const pokemonWeight2 = require('./gamedata2.0/english_ss_zkn_weight.json');
-const pokemonDexType2 = require('./gamedata2.0/english_ss_zkn_type.json');
-const PokedexInfo2 = require('./gamedata2.0/english_dp_pokedex_diamond.json');
+const basePokemonNames2 = require('./gamedata2.0/spanish_ss_monsname.json');
+const formPokemonNames2 = require('./gamedata2.0/spanish_ss_zkn_form.json');
+const pokemonHeight2 = require('./gamedata2.0/spanish_ss_zkn_height.json');
+const pokemonWeight2 = require('./gamedata2.0/spanish_ss_zkn_weight.json');
+const pokemonDexType2 = require('./gamedata2.0/spanish_ss_zkn_type.json');
+const PokedexInfo2 = require('./gamedata2.0/spanish_dp_pokedex_diamond.json');
 
 //All the other english files
-const natureNames2 = require('./gamedata2.0/english_ss_seikaku.json');
-const abilityNames2 = require('./gamedata2.0/english_ss_tokusei.json');
-const abilityInfo2 = require('./gamedata2.0/english_ss_tokuseiinfo.json');
-const typeName2 = require('./gamedata2.0/english_ss_typename.json');
-const moveNames2 = require('./gamedata2.0/english_ss_wazaname.json');
-const moveInfo2 = require('./gamedata2.0/english_ss_wazainfo.json');
-const itemNames2 = require('./gamedata2.0/english_ss_itemname.json');
+const natureNames2 = require('./gamedata2.0/spanish_ss_seikaku.json');
+const abilityNames2 = require('./gamedata2.0/spanish_ss_tokusei.json');
+const abilityInfo2 = require('./gamedata2.0/spanish_ss_tokuseiinfo.json');
+const typeName2 = require('./gamedata2.0/spanish_ss_typename.json');
+const moveNames2 = require('./gamedata2.0/spanish_ss_wazaname.json');
+const moveInfo2 = require('./gamedata2.0/spanish_ss_wazainfo.json');
+const itemNames2 = require('./gamedata2.0/spanish_ss_itemname.json');
 
 //Custom files
 const moveEnum2 = require('./gamedata2.0/moveEnum.json');

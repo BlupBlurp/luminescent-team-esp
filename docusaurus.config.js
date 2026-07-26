@@ -3,7 +3,7 @@
 
 require('dotenv').config();
 
-const BASE_URL = '/';
+const BASE_URL = '/luminescent-team-esp/';
 const {themes} = require('prism-react-renderer');
 const lightCodeTheme = themes.github;
 const darkCodeTheme = themes.dracula;
