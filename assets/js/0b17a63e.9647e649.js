@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[718048],{566774(e){e.exports="/luminescent-team-esp/pokedex/mightyena"}}]);

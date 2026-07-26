@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[499378],{629512(e){e.exports="/luminescent-team-esp/pokedex/cresselia"}}]);

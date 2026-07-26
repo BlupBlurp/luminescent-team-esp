@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[776634],{688511(e){e.exports="/luminescent-team-esp/pokedex/pachirisu"}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[841867],{176079(e){e.exports="/luminescent-team-esp/pokedex/spring-form-sawsbuck"}}]);

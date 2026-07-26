@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[849527],{476138(e){e.exports="/luminescent-team-esp/pokedex/pheromosa"}}]);

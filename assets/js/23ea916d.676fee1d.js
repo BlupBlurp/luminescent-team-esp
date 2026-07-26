@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[962688],{905224(e){e.exports="/luminescent-team-esp/pokedex/luxray"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[769201],{39508(e){e.exports="/luminescent-team-esp/pokedex/shaymin-forma-tierra"}}]);

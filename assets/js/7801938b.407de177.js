@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[420149],{491215(e){e.exports="/luminescent-team-esp/pokedex/high-plains-pattern-vivillon"}}]);

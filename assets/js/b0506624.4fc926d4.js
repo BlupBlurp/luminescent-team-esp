@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[978888],{339214(e){e.exports="/luminescent-team-esp/pokedex/gmax-copperajah"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[325194],{574627(e){e.exports="/luminescent-team-esp/pokedex/clone-blastoise"}}]);

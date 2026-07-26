@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[758135],{368698(e){e.exports="/luminescent-team-esp/pokedex/giratina-forma-modificada"}}]);

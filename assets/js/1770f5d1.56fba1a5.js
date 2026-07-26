@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[271344],{748699(e){e.exports="/luminescent-team-esp/pokedex/arctozolt"}}]);

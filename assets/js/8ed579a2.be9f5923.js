@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[587194],{919407(e){e.exports="/luminescent-team-esp/pokedex/torchic"}}]);

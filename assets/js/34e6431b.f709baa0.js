@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[191469],{424482(e){e.exports="/luminescent-team-esp/pokedex/golem-de-alola"}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[200731],{908336(e){e.exports="/luminescent-team-esp/pokedex/luxio"}}]);

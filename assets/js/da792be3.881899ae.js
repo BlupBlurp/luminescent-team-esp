@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[136614],{87940(e){e.exports="/luminescent-team-esp/pokedex/clefairy"}}]);

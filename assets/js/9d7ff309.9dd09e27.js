@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[288303],{933309(e){e.exports="/luminescent-team-esp/pokedex/bramblin"}}]);

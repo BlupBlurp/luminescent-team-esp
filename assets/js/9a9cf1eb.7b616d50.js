@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[140631],{931202(e){e.exports="/luminescent-team-esp/pokedex/yveltal"}}]);

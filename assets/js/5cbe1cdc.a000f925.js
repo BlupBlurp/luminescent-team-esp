@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[408083],{907862(e){e.exports="/luminescent-team-esp/pokedex/celesteela"}}]);

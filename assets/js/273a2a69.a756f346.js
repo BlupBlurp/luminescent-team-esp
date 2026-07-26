@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[325374],{491512(e){e.exports="/luminescent-team-esp/pokedex/sirfetchd"}}]);

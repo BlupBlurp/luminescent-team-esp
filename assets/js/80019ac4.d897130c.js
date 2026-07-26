@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[248333],{35085(e){e.exports="/luminescent-team-esp/pokedex/mega-salamence"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[197223],{435602(e){e.exports="/luminescent-team-esp/pokedex/klefki"}}]);

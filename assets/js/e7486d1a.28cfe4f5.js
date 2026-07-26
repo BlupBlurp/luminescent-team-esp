@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[420527],{326312(e){e.exports="/luminescent-team-esp/pokedex/hisui-sliggoo"}}]);

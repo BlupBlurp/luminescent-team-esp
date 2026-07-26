@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[38704],{365916(e){e.exports="/luminescent-team-esp/pokedex/-bug-silvally"}}]);

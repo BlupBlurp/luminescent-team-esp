@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[171340],{189512(e){e.exports="/luminescent-team-esp/pokedex/drakloak"}}]);

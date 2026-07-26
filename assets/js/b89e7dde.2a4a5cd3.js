@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[379027],{90116(e){e.exports="/luminescent-team-esp/pokedex/guzzlord"}}]);

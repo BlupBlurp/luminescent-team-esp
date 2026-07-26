@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[492784],{275492(e){e.exports="/luminescent-team-esp/pokedex/dodrio"}}]);

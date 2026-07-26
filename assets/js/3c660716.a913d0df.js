@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[74951],{450066(e){e.exports="/luminescent-team-esp/pokedex/kingambit"}}]);

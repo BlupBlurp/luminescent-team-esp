@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[97902],{276482(e){e.exports="/luminescent-team-esp/pokedex/maractus"}}]);

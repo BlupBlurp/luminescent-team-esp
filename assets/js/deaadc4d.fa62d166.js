@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[613263],{980079(e){e.exports="/luminescent-team-esp/pokedex/grotle"}}]);

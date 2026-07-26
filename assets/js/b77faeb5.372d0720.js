@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[149480],{362616(e){e.exports="/luminescent-team-esp/pokedex/rhyperior"}}]);

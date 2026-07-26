@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[98520],{982126(e){e.exports="/luminescent-team-esp/pokedex/feraligatr"}}]);

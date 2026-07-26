@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[436441],{670075(e){e.exports="/luminescent-team-esp/pokedex/kommo-o"}}]);

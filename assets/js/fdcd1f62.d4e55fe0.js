@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[578201],{14478(e){e.exports="/luminescent-team-esp/pokedex/ditto"}}]);

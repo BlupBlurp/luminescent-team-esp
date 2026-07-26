@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[821988],{602685(e){e.exports="/luminescent-team-esp/pokedex/cursola"}}]);

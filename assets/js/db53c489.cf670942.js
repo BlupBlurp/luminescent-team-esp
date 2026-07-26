@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[196653],{503239(e){e.exports="/luminescent-team-esp/pokedex/burmy-tronco-basura"}}]);

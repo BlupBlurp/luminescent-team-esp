@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[618630],{372883(e){e.exports="/luminescent-team-esp/pokedex/mr-mime"}}]);

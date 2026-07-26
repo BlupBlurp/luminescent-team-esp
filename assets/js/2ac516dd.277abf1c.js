@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[465285],{723289(e){e.exports="/luminescent-team-esp/pokedex/flygon"}}]);

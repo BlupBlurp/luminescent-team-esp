@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[629005],{919630(e){e.exports="/luminescent-team-esp/pokedex/dewott"}}]);

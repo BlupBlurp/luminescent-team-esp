@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[722326],{959977(e){e.exports="/luminescent-team-esp/pokedex/mega-gallade"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[420158],{750275(e){e.exports="/luminescent-team-esp/pokedex/dubwool"}}]);

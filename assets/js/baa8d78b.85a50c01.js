@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[134358],{234918(e){e.exports="/luminescent-team-esp/pokedex/illusory-rayquaza"}}]);

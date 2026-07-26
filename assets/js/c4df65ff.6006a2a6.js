@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[639979],{477150(e){e.exports="/luminescent-team-esp/pokedex/hydrapple"}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[480720],{123255(e){e.exports="/luminescent-team-esp/pokedex/crobat"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[511424],{40365(e){e.exports="/luminescent-team-esp/pokedex/rookidee"}}]);

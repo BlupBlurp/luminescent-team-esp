@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[442325],{835545(e){e.exports="/luminescent-team-esp/pokedex/violet-core-minior"}}]);

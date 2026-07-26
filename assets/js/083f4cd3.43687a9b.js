@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[783516],{110205(e){e.exports="/luminescent-team-esp/pokedex/golurk"}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[58392],{429122(e){e.exports="/luminescent-team-esp/pokedex/mega-blaziken"}}]);

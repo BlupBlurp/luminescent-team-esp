@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[304010],{713263(e){e.exports="/luminescent-team-esp/pokedex/volcanion"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[689899],{770002(e){e.exports="/luminescent-team-esp/pokedex/tinkatink"}}]);

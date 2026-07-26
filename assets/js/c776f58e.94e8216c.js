@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[95476],{88221(e){e.exports="/luminescent-team-esp/pokedex/vespiquen"}}]);

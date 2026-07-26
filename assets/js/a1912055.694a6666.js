@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[331383],{676264(e){e.exports="/luminescent-team-esp/pokedex/togekiss"}}]);

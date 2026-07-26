@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[719156],{435633(e){e.exports="/luminescent-team-esp/pokedex/cloyster"}}]);

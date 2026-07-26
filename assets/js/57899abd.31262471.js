@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[615002],{403079(e){e.exports="/luminescent-team-esp/pokedex/active-mode-xerneas"}}]);

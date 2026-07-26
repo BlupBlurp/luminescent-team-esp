@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[778598],{821993(e){e.exports="/luminescent-team-esp/pokedex/azelf"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[397626],{820513(e){e.exports="/luminescent-team-esp/pokedex/dottler"}}]);

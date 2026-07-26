@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[264729],{191743(e){e.exports="/luminescent-team-esp/pokedex/hisui-decidueye"}}]);

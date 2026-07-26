@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[66165],{857446(e){e.exports="/luminescent-team-esp/pokedex/rattata"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[907580],{16682(e){e.exports="/luminescent-team-esp/pokedex/persian"}}]);

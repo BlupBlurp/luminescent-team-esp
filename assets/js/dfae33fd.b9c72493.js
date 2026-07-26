@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[401035],{324831(e){e.exports="/luminescent-team-esp/pokedex/braixen"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[955150],{175116(e){e.exports="/luminescent-team-esp/pokedex/sandshrew"}}]);

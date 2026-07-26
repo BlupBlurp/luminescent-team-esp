@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[273425],{662929(e){e.exports="/luminescent-team-esp/pokedex/haunter"}}]);

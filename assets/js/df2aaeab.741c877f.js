@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[609461],{161370(e){e.exports="/luminescent-team-esp/pokedex/stitched-gengar"}}]);

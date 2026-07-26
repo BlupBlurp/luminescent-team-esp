@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[630576],{104732(e){e.exports="/luminescent-team-esp/pokedex/dugtrio-de-alola"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[172577],{64553(e){e.exports="/luminescent-team-esp/pokedex/karrablast"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[504785],{27921(e){e.exports="/luminescent-team-esp/pokedex/baxcalibur"}}]);
