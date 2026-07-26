@@ -128,21 +128,22 @@ function moveDexDataPlugin(context, options) {
             }
             zMoveMap[move3.movePath] += 1
           }
-          const movePath = `${moveDexPath}/${move3.movePath}`;
 
           const moveJson3 = await actions.createData(`3.0lumi-${move3.movePath}.json`, JSON.stringify(move3));
           let moveJson2 = null;
           let moveJsonV = null;
 
-          const move2 = content.moves2.find((m2) => m2.name === move3.name);
+          const move2 = content.moves2.find((m2) => m2.id === move3.id);
           if (move2) {
             moveJson2 = await actions.createData(`2.0lumi-${move3.movePath}.json`, JSON.stringify(move2));
           }
 
-          const moveV = content.movesV.find((mV) => mV.name === move3.name);
+          const moveV = content.movesV.find((mV) => mV.id === move3.id);
           if (moveV) {
             moveJsonV = await actions.createData(`VanilaBDSP-${move3.movePath}.json`, JSON.stringify(moveV));
           }
+
+          const movePath = `${moveDexPath}/${move2?.movePath ?? move3.movePath}`;
 
           moveRoutes.push({
             path: movePath,

@@ -166,9 +166,7 @@ export default async function pokedexDataPlugin(context, options) {
       const pokemonRoutes = [];
       await Promise.all(
         content.pokemons3.map(async (pokemon3) => {
-          const pokemonName = normalizePokemonName(pokemon3.name, GAMEDATA3);
           const pokemonId3 = pokemon3.formno === 0 ? pokemon3.monsno : `${pokemon3.monsno}_${pokemon3.formno}`;
-          const pokemonPath = `${pokedexPath}/${pokemonName}`;
           const pokemonJson3 = await actions.createData(`3.0lumi${pokemonId3}.json`, JSON.stringify(pokemon3));
           let pokemonJson = pokemonJson3;
           let pokemonJsonV = pokemonJson3;
@@ -184,6 +182,9 @@ export default async function pokedexDataPlugin(context, options) {
             const pokemonIdV = pokemonVanilla.formno === 0 ? pokemonVanilla.monsno : `${pokemonVanilla.monsno}_${pokemonVanilla.formno}`;
             pokemonJsonV = await actions.createData(`VanillaBDSP${pokemonIdV}.json`, JSON.stringify(pokemonVanilla));
           }
+
+          const pokemonName = normalizePokemonName(pokemon?.name ?? pokemon3.name, GAMEDATA3);
+          const pokemonPath = `${pokedexPath}/${pokemonName}`;
 
           const redirectPathJson = await actions.createData(`lumi${pokemonName}.json`, JSON.stringify(pokemonPath));
           const redirectPathJson3 = await actions.createData(`3.0lumi${pokemonName}.json`, JSON.stringify(pokemonPath));
