@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[528519],{40589(e){e.exports="/luminescent-team-esp/pokedex/galar-moltres"}}]);

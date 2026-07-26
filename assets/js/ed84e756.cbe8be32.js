@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[357921],{282033(e){e.exports="/luminescent-team-esp/pokedex/roggenrola"}}]);

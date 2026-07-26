@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[747323],{914256(e){e.exports="/luminescent-team-esp/pokedex/mega-sceptile"}}]);

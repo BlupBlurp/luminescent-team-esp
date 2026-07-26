@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[81903],{101912(e){e.exports=JSON.parse('{"blogBasePath":"/luminescent-team-esp/blog","blogTitle":"Blog","authorsListPath":"/luminescent-team-esp/blog/authors"}')}}]);

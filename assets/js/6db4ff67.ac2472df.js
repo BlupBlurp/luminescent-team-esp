@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[228138],{268030(e){e.exports="/luminescent-team-esp/pokedex/bronzong"}}]);

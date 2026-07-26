@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[80015],{398313(e){e.exports="/luminescent-team-esp/pokedex/emark-form-unown"}}]);

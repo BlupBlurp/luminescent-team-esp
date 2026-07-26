@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[544564],{129103(e){e.exports="/luminescent-team-esp/pokedex/nidoqueen"}}]);

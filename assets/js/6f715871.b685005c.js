@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[769940],{688468(e){e.exports="/luminescent-team-esp/pokedex/starly"}}]);

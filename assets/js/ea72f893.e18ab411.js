@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[173764],{185014(e){e.exports="/luminescent-team-esp/pokedex/wailmer"}}]);

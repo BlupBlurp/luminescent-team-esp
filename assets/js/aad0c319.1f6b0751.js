@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[270561],{32905(e){e.exports="/luminescent-team-esp/pokedex/alola-persian"}}]);

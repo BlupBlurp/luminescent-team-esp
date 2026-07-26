@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[814348],{661019(e){e.exports="/luminescent-team-esp/pokedex/nidoran-femaleemale"}}]);

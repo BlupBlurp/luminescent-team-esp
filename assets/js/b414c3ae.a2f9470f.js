@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[944122],{997038(e){e.exports="/luminescent-team-esp/pokedex/bandana-partner-eevee"}}]);

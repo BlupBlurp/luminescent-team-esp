@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[989500],{241131(e){e.exports="/luminescent-team-esp/pokedex/fan-rotom"}}]);

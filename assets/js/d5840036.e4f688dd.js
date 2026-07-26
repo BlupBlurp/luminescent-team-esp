@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[480745],{505572(e){e.exports="/luminescent-team-esp/pokedex/plant-cloak-wormadam"}}]);

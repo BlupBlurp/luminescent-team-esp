@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[37284],{848072(e){e.exports="/luminescent-team-esp/pokedex/beheeyem"}}]);

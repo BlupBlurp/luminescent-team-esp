@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[269791],{326212(e){e.exports="/luminescent-team-esp/pokedex/dewgong"}}]);

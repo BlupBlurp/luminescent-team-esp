@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[15787],{636449(e){e.exports="/luminescent-team-esp/pokedex/quilladin"}}]);

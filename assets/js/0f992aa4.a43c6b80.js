@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[237699],{742264(e){e.exports="/luminescent-team-esp/pokedex/araquanid"}}]);

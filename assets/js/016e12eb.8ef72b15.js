@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[664305],{434088(e){e.exports="/luminescent-team-esp/pokedex/combee"}}]);

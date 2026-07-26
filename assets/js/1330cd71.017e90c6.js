@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[99283],{88762(e){e.exports="/luminescent-team-esp/pokedex/shellder"}}]);

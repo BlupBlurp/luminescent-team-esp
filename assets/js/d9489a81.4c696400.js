@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[48961],{840264(e){e.exports="/luminescent-team-esp/pokedex/terastal-hearthflame-mask-ogerpon"}}]);

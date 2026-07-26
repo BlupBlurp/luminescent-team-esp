@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[756925],{380755(e){e.exports="/luminescent-team-esp/pokedex/gmax-cinderace"}}]);

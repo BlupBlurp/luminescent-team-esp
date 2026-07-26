@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[864146],{349668(e){e.exports="/luminescent-team-esp/pokedex/flame-plate-arceus"}}]);

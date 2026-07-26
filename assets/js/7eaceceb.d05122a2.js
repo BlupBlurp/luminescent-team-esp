@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[541866],{582090(e){e.exports="/luminescent-team-esp/pokedex/marshtomp"}}]);

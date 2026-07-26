@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[82043],{727117(e){e.exports="/luminescent-team-esp/pokedex/dewpider"}}]);
