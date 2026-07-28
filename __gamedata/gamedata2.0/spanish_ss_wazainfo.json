@@ -23161,15 +23161,15 @@
                     "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "Al usar este movimiento, se duplica el dinero recibido",
+                    "str": "El usuario no podrá usar este movimiento",
                     "strWidth": 710.0
                 },
                 {
-                    "patternID": 0,
-                    "eventID": 7,
+                    "patternID": 7,
+                    "eventID": 1,
                     "tagIndex": -1,
                     "tagValue": 0.0,
-                    "str": "tras el combate.",
+                    "str": "al turno siguiente, a menos que el movimiento falle.",
                     "strWidth": 710.0
                 }
             ]
