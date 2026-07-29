@@ -195,7 +195,7 @@ const config = {
           { to: '/blog', label: 'Blog', position: 'left' },
           {
             type: 'dropdown',
-            label: 'GENTE DEL PROLOCKE, CLICK AQUÍ!',
+            label: 'Fatiga Locke',
             position: 'left',
             items: [
               ...(isPokedexEnabled ? [{ to: POKEDEX_BASE_PATH, label: 'Pokédex' }] : []),
