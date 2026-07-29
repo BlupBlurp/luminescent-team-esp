@@ -37,7 +37,7 @@ const TrainersPanel = ({
               sx={{ margin: "0.5rem 1rem" }}
               onClick={handleOpen}
             >
-              Detailed
+              Detalles
             </Button>
           )}
         </Box>

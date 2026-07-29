@@ -204,7 +204,7 @@ const TrainerSearchInput = ({
         renderInput={(params) => (
           <TextField
             {...params}
-            label="Search Trainer"
+            label="Buscar Entrenador"
             fullWidth
           />
         )}
