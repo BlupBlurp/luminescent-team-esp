@@ -280,16 +280,16 @@ export const PokemonPageContent = ({
       </Container>
 
       <Container>
-        <PokemonAccordion title="Moves learnt via level-up" id="levelMoveset">
+        <PokemonAccordion title="Movimientos aprendidos por nivel" id="levelMoveset">
           <PokemonMovesetList moveset={pokemonInfo.learnset.level} movesetPrefix="levelup" pokemonDexId={pokemonInfo.id} />
         </PokemonAccordion>
-        <PokemonAccordion title="Moves learnt via Technical Machine" id="tmMoveset">
+        <PokemonAccordion title="Movimientos aprendidos via Máquina Técnica" id="tmMoveset">
           <PokemonMovesetList moveset={pokemonInfo.learnset.tm} movesetPrefix="tm" pokemonDexId={pokemonInfo.id} />
         </PokemonAccordion>
-        <PokemonAccordion title="Moves learnt via breeding" id="eggMoveset">
+        <PokemonAccordion title="Movimientos huevo" id="eggMoveset">
           <PokemonMovesetList moveset={pokemonInfo.learnset.egg} movesetPrefix="egg" pokemonDexId={pokemonInfo.id} />
         </PokemonAccordion>
-        <PokemonAccordion title="Moves learnt via Tutor" id="eggMoveset">
+        <PokemonAccordion title="Movimientos aprendidos por Tutor (Centro Pokémon)" id="eggMoveset">
           <PokemonMovesetList moveset={pokemonInfo.learnset.tutor} movesetPrefix="tutor" pokemonDexId={pokemonInfo.id} />
         </PokemonAccordion>
       </Container>
