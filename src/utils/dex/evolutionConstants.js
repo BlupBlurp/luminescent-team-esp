@@ -164,13 +164,13 @@ export const EVOLUTION_METHOD_DETAILS = {
     function: doNothing,
   },
   26: {
-    method: 'Level Up By Moss Rock',
+    method: 'Subiendo de Nivel con Roca Musgo',
     requiresLevel: false,
     parameterType: 'None',
     function: doNothing,
   },
   27: {
-    method: 'Level Up By Ice Rock',
+    method: 'Subiendo de Nivel con Roca Hielo',
     requiresLevel: false,
     parameterType: 'None',
     function: doNothing,

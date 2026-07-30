@@ -183,19 +183,19 @@ const EVOLUTION_METHOD_DETAILS = {
     function: doNothing,
   },
   26: {
-    method: 'Subiendo de Nivel con Roca musgo',
+    method: 'Subiendo de Nivel con Roca Musgo',
     requiresLevel: false,
     parameterType: 'None',
     function: doNothing,
   },
   27: {
-    method: 'Subiendo de Nivel con Piedra Hielo',
+    method: 'Subiendo de Nivel con Roca Hielo',
     requiresLevel: false,
     parameterType: 'None',
     function: doNothing,
   },
   28: {
-    method: 'Subiendo de Nivel y Dispositivo boca abajo',
+    method: 'Subiendo de Nivel y Consola boca abajo',
     requiresLevel: true,
     parameterType: 'None',
     function: doNothing,
