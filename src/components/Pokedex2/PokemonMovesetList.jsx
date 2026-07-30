@@ -118,14 +118,14 @@ export const MovesetListItem = ({ moveLevel, move }) => {
       <Box display="flex" flexDirection="column" alignItems="center">
         {move.power > 0 && (
           <>
-            <Typography sx={{ fontStyle: 'italic', ...responsiveFontSize }}>Power</Typography>
+            <Typography sx={{ fontStyle: 'italic', ...responsiveFontSize }}>Potencia</Typography>
             <Typography sx={{ ...responsiveFontSize }}>{move.power}</Typography>
           </>
         )}
       </Box>
 
       <Box display="flex" flexDirection="column" alignItems="center">
-        <Typography sx={{ fontStyle: 'italic', ...responsiveFontSize }}>Accuracy</Typography>
+        <Typography sx={{ fontStyle: 'italic', ...responsiveFontSize }}>Precisión</Typography>
         <Typography sx={{ ...responsiveFontSize }}>{move.accuracy === 101 ? '--' : move.accuracy}</Typography>
       </Box>
 

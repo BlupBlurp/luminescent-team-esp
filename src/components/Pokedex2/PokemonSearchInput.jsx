@@ -164,7 +164,7 @@ export const PokemonSearchInput = ({ allPokemons, setPokemons, searchTable, hand
     <TextField
       id="pokemon-search-input"
       type="search"
-      label="Search Pokémon"
+      label="Buscar Pokémon"
       fullWidth={true}
       value={debouncedText}
       onChange={(e) => setDebouncedText(e.target.value)}

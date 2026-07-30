@@ -6,19 +6,19 @@ const { doNothing } = require('./functions');
 
 const REPLACE_STRING = "REPLACE";
 
-const LEVEL = "Level"
-const FRIENDSHIP = "Friendship"
-const DAY = "Day"
-const NIGHT = "Night"
-const DUSK = "Dusk";
-const MOSS_ROCK = "Moss Rock"
-const ICE_ROCK = "Ice Rock"
-const FEMALE = "Female"
-const MALE = "Male"
-const BEAUTY = "Beauty"
-const CRITICAL_HITS = "critical hits";
-const RECEIVE_DAMAGE = "Receive";
-const FOLLOWER = "Follower";
+const LEVEL = "Nivel"
+const FRIENDSHIP = "Amistad"
+const DAY = "Día"
+const NIGHT = "Noche"
+const DUSK = "Atardecer";
+const MOSS_ROCK = "Roca Musgo"
+const ICE_ROCK = "Roca Hielo"
+const FEMALE = "Hembra"
+const MALE = "Macho"
+const BEAUTY = "Belleza"
+const CRITICAL_HITS = "impactos críticos";
+const RECEIVE_DAMAGE = "Recibir";
+const FOLLOWER = "Seguidor";
 const RNG = "RNG";
 const ITEM_STRING_FUNCTION = "getItemString";
 const MOVE_STRING_FUNCTION = "getMoveString";
@@ -33,37 +33,37 @@ const EVOLUTION_METHOD_DETAILS = {
     function: doNothing,
   },
   1: {
-    method: 'Friendship',
+    method: 'Amistad',
     requiresLevel: false,
     parameterType: 'None',
     function: doNothing,
   },
   2: {
-    method: 'Friendship + Day',
+    method: 'Amistad + Día',
     requiresLevel: false,
     parameterType: 'None',
     function: doNothing,
   },
   3: {
-    method: 'Friendship + Night',
+    method: 'Amistad + Noche',
     requiresLevel: false,
     parameterType: 'None',
     function: doNothing,
   },
   4: {
-    method: `Level ${REPLACE_STRING}`,
+    method: `Nivel ${REPLACE_STRING}`,
     requiresLevel: true,
     parameterType: 'None',
     function: doNothing,
   },
   5: {
-    method: 'Trade',
+    method: 'Intercambio',
     requiresLevel: false,
     parameterType: 'None',
     function: doNothing,
   },
   6: {
-    method: `Trade with ${REPLACE_STRING}`,
+    method: `Intercambio con ${REPLACE_STRING}`,
     requiresLevel: false,
     parameterType: 'Item',
     function: getItemString,
@@ -75,43 +75,43 @@ const EVOLUTION_METHOD_DETAILS = {
     function: doNothing,
   },
   8: {
-    method: `Use ${REPLACE_STRING}`,
+    method: `Usando ${REPLACE_STRING}`,
     requiresLevel: false,
     parameterType: 'Item',
     function: getItemString,
   },
   9: {
-    method: `Level ${REPLACE_STRING} & Atk > Def`,
+    method: `Nivel ${REPLACE_STRING} y Atq > Def`,
     requiresLevel: true,
     parameterType: 'None',
     function: doNothing,
   },
   10: {
-    method: `Level ${REPLACE_STRING} & Atk = Def`,
+    method: `Nivel ${REPLACE_STRING} y Atq = Def`,
     requiresLevel: true,
     parameterType: 'None',
     function: doNothing,
   },
   11: {
-    method: `Level ${REPLACE_STRING} & Def > Atk`,
+    method: `Nivel ${REPLACE_STRING} y Def > Atq`,
     requiresLevel: true,
     parameterType: 'None',
     function: doNothing,
   },
   12: {
-    method: `Level ${REPLACE_STRING} + RNG`,
+    method: `Nivel ${REPLACE_STRING} + RNG`,
     requiresLevel: true,
     parameterType: 'None',
     function: doNothing,
   },
   13: {
-    method: `Level ${REPLACE_STRING} + RNG`,
+    method: `Nivel ${REPLACE_STRING} + RNG`,
     requiresLevel: true,
     parameterType: 'None',
     function: doNothing,
   },
   14: {
-    method: `Level ${REPLACE_STRING} & Free Space + Poké Ball`,
+    method: `Nivel ${REPLACE_STRING} y Espacio Libre + Poké Ball`,
     requiresLevel: true,
     parameterType: 'None',
     function: doNothing,
@@ -123,109 +123,109 @@ const EVOLUTION_METHOD_DETAILS = {
     function: doNothing,
   },
   16: {
-    method: 'High Beauty',
+    method: 'Belleza Alta',
     requiresLevel: false,
     parameterType: 'None',
     function: doNothing,
   },
   17: {
-    method: `Use ${REPLACE_STRING} & Male`,
+    method: `Usando ${REPLACE_STRING} y Macho`,
     requiresLevel: false,
     parameterType: 'Item',
     function: getItemString,
   },
   18: {
-    method: `Use ${REPLACE_STRING} & Female`,
+    method: `Usando ${REPLACE_STRING} y Hembra`,
     requiresLevel: false,
     parameterType: 'Item',
     function: getItemString,
   },
   19: {
-    method: `Hold ${REPLACE_STRING} & Day`,
+    method: `Equipando ${REPLACE_STRING} y Día`,
     requiresLevel: false,
     parameterType: 'Item',
     function: getItemString,
   },
   20: {
-    method: `Hold ${REPLACE_STRING} & Night`,
+    method: `Equipando ${REPLACE_STRING} y Noche`,
     requiresLevel: false,
     parameterType: 'Item',
     function: getItemString,
   },
   21: {
-    method: `Level up with ${REPLACE_STRING}`,
+    method: `Subiendo de nivel con ${REPLACE_STRING}`,
     requiresLevel: false,
     parameterType: 'Move',
     function: getMoveString,
   },
   22: {
-    method: `${REPLACE_STRING} in party`,
+    method: `${REPLACE_STRING} en el equipo`,
     requiresLevel: false,
     parameterType: 'Pokemon',
     function: getPokemonName,
   },
   23: {
-    method: `Level ${REPLACE_STRING} & Male`,
+    method: `Nivel ${REPLACE_STRING} y Macho`,
     requiresLevel: true,
     parameterType: 'None',
     function: doNothing,
   },
   24: {
-    method: `Level ${REPLACE_STRING} & Female`,
+    method: `Nivel ${REPLACE_STRING} y Hembra`,
     requiresLevel: true,
     parameterType: 'None',
     function: doNothing,
   },
   25: {
-    method: 'Level Up in Magnetic Field',
+    method: 'Subiendo de Nivel en un Campo Magenético',
     requiresLevel: false,
     parameterType: 'None',
     function: doNothing,
   },
   26: {
-    method: 'Level Up By Moss Rock',
+    method: 'Subiendo de Nivel con Piedra Musgo',
     requiresLevel: false,
     parameterType: 'None',
     function: doNothing,
   },
   27: {
-    method: 'Level Up By Ice Rock',
+    method: 'Subiendo de Nivel con Piedra Hielo',
     requiresLevel: false,
     parameterType: 'None',
     function: doNothing,
   },
   28: {
-    method: 'Level Up & Device Upside-Down',
+    method: 'Subiendo de Nivel y Dispositivo boca abajo',
     requiresLevel: true,
     parameterType: 'None',
     function: doNothing,
   },
   29: {
-    method: `Friendship + ${REPLACE_STRING} Move`,
+    method: `Amistad + ${REPLACE_STRING} Move`,
     requiresLevel: false,
     parameterType: 'Typing',
     function: getTypeName,
   },
   30: {
-    method: `Level ${REPLACE_STRING} + Dark-Type in Party`,
+    method: `Nivel ${REPLACE_STRING} + Tipo Siniestro en el equipo`,
     requiresLevel: true,
     parameterType: 'None',
     function: doNothing,
   },
   31: {
-    method: `Level ${REPLACE_STRING} in Rain`,
+    method: `Nivel ${REPLACE_STRING} en Lluvia`,
     requiresLevel: true,
     parameterType: 'None',
     function: doNothing,
   },
   32: {
-    method: `Level ${REPLACE_STRING} During Day`,
+    method: `Nivel ${REPLACE_STRING} durante el Día`,
     requiresLevel: true,
     parameterType: 'None',
     function: doNothing,
   },
   33: {
-    method: `Level ${REPLACE_STRING} During Night`,
+    method: `Nivel ${REPLACE_STRING} durante la Noche`,
     requiresLevel: true,
     parameterType: 'None',
     function: doNothing,

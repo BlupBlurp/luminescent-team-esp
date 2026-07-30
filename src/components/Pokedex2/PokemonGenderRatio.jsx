@@ -7,7 +7,7 @@ export const PokemonGenderRatio = ({ genderDecimalValue }) => {
 
   return (
     <Box sx={{ marginTop: "16px"}}>
-      <Typography sx={{ fontWeight: 800, fontSize: '0.8rem' }}>Gender ratio:</Typography>
+      <Typography sx={{ fontWeight: 800, fontSize: '0.8rem' }}>Ratio de Género:</Typography>
       <Container>
         <PokemonGenderText malePercentage={genderRatio.male} femalePercentage={genderRatio.female} />
       </Container>

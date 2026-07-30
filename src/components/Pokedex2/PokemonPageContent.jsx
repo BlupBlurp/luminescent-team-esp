@@ -176,11 +176,11 @@ export const PokemonPageContent = ({
           </Box>
           <Box className={style.pokeColumn} gridColumn="span 1">
             <Typography variant="h6" component="h6">
-              <p className={style.flex}>Size:</p>
+              <p className={style.flex}>Tamaño:</p>
               {pokemonInfo.height}m, {pokemonInfo.weight}kg
               <br />
               <span style={{ fontSize: '0.8rem' }}>
-                <i>Grass Knot: {pokemonInfo.grassKnotPower}</i>
+                <i>Hierba Lazo: {pokemonInfo.grassKnotPower}</i>
               </span>
             </Typography>
           </Box>

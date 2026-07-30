@@ -50,7 +50,7 @@ export const PokemonSearchBox = ({ pokemonNames, formNo, monsNo }) => {
           </li>
         );
       }}
-      renderInput={(params) => <TextField {...params} label="Search Pokémon" />}
+      renderInput={(params) => <TextField {...params} label="Buscar Pokémon" />}
     />
   );
 };

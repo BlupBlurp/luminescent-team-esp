@@ -51,7 +51,7 @@ const PokemonSearchInput = ({
         renderInput={(params) => (
           <TextField
             {...params}
-            label="Search Pokémon Location"
+            label="Buscar Ubicación de Pokémon"
             fullWidth
           />
         )}

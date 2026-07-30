@@ -16,18 +16,18 @@ function getStatBarValues(stat) {
 export const PokemonStats = ({ baseStats, baseStatsTotal, itemContainerHeight }) => {
   const [level, setLevel] = useState(100);
   const pokemonStatValues = [
-    { label: 'HP:', value: baseStats.hp, isHpStat: true },
-    { label: 'Attack:', value: baseStats.atk, isHpStat: false },
-    { label: 'Defense:', value: baseStats.def, isHpStat: false },
-    { label: 'Sp.Atk:', value: baseStats.spa, isHpStat: false },
-    { label: 'Sp.Def:', value: baseStats.spd, isHpStat: false },
-    { label: 'Speed:', value: baseStats.spe, isHpStat: false },
+    { label: 'PS:', value: baseStats.hp, isHpStat: true },
+    { label: 'Ataque:', value: baseStats.atk, isHpStat: false },
+    { label: 'Defensa:', value: baseStats.def, isHpStat: false },
+    { label: 'At. Esp.:', value: baseStats.spa, isHpStat: false },
+    { label: 'Def. Esp.:', value: baseStats.spd, isHpStat: false },
+    { label: 'Velocidad:', value: baseStats.spe, isHpStat: false },
   ];
 
   return (
     <>
       <Box display="flex" justifyContent="center">
-        <Typography variant="h6">Base Stats:</Typography>
+        <Typography variant="h6">Estadísticas Base:</Typography>
       </Box>
       <Container
         sx={{
