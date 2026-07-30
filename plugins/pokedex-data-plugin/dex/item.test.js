@@ -13,7 +13,7 @@ describe('Dex utils Item getter tests', () => {
     });
 
     test('should return the correct ID for a valid item name', () => {
-      const itemName = 'Leftovers';
+      const itemName = 'Restos';
       const expected = 234;
       const actual = getItemIdFromItemName(itemName);
       expect(actual).toBe(expected);
@@ -28,7 +28,7 @@ describe('Dex utils Item getter tests', () => {
   describe('getItemString', () => {
     test('should return the correct item name string for a given item ID', () => {
       const itemId = 234;
-      const expected = 'Leftovers';
+      const expected = 'Restos';
       const actual = getItemString(itemId);
       expect(actual).toBe(expected);
     });
@@ -36,7 +36,7 @@ describe('Dex utils Item getter tests', () => {
 
   describe('getItemImages', () => {
     test('should return the correct item image url for a given item string', () => {
-      const itemName = 'Leftovers';
+      const itemName = 'Restos';
       const expected = '/img/items/Item_Leftovers.webp';
       const actual = getItemImageUrl(itemName);
       expect(actual).toBe(expected);
@@ -84,8 +84,10 @@ describe('Dex utils Item getter tests', () => {
               if (err && !nonItemList.includes(itemImagePath)) {
                 nonItemList.push(itemImagePath);
               }
-            // Uncomment the line below to log any missing items.
-            // console.log(nonItemList)
+              // Uncomment the line below to log any missing items.
+              // if (nonItemList.length > 0) {
+              //   console.log(nonItemList)
+              // }
             });
           }
         });
@@ -107,9 +109,9 @@ function getAllItemImageData(onlyValidPokemons = false, mode = GAMEDATA2) {
         continue;
       }
       const pokemonInfo = getPokemon(pokemonId, mode);
-      const itemImageUrl1 = pokemonInfo.item1 !== "None" ? getItemImageUrl(pokemonInfo.item1) : null;
-      const itemImageUrl2 = pokemonInfo.item2 !== "None" ? getItemImageUrl(pokemonInfo.item2) : null;
-      const itemImageUrl3 = pokemonInfo.item3 !== "None" ? getItemImageUrl(pokemonInfo.item3) : null;
+      const itemImageUrl1 = pokemonInfo.item1 !== "Ningun objecto" ? getItemImageUrl(pokemonInfo.item1) : null;
+      const itemImageUrl2 = pokemonInfo.item2 !== "Ningun objecto" ? getItemImageUrl(pokemonInfo.item2) : null;
+      const itemImageUrl3 = pokemonInfo.item3 !== "Ningun objecto" ? getItemImageUrl(pokemonInfo.item3) : null;
 
       if (itemImageUrl1 !== null) {
         pokemonImageData.push([itemImageUrl1, pokemonInfo.name, "1"]);

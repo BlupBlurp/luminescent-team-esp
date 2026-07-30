@@ -1,4 +1,4 @@
-const { GAMEDATA2, ItemNames, ItemTable } = require('../../../__gamedata');
+const { GAMEDATA2, GAMEDATAV, ItemNames, ItemTable } = require('../../../__gamedata');
 
 function getItemIdFromItemName(itemName, mode = GAMEDATA2) {
   if (!itemName) throw Error(`Bad item name: ${itemName}`);
@@ -66,9 +66,21 @@ function getItemProperties(itemId = 1, mode = GAMEDATA2) {
   return itemPropertyObject;
 }
 
-function getItemImageUrl(itemName="") {
-  const splitItemName = itemName.replace("’", "").split(" ").join("_");
-  return `/img/items/Item_${splitItemName}.webp`;
+function getItemImageUrl(itemName = "", mode = GAMEDATA2) {
+  if (!itemName || itemName === "None") {
+    return `/img/items/Item_None.webp`;
+  }
+
+  try {
+    // TODO - This is a temporary fix for the issue where the item name is not in English. We should find a better way to handle this in the future.
+    const itemId = getItemIdFromItemName(itemName, mode);
+    const englishItemName = getItemString(itemId, GAMEDATAV);
+    const splitItemName = englishItemName.replace(/['’]/g, "").split(" ").join("_");
+    return `/img/items/Item_${splitItemName}.webp`;
+  } catch (error) {
+    const splitItemName = itemName.replace(/['’]/g, "").split(" ").join("_");
+    return `/img/items/Item_${splitItemName}.webp`;
+  }
 }
 
 function getTMImageUrl(moveType="") {
