@@ -14,6 +14,16 @@ function getAbilityIdFromAbilityName(abilityString, mode = GAMEDATA2) {
   let abilityId = ModeAbilityNames.labelDataArray.findIndex((e) => e.wordDataArray[0].str === abilityString);
 
   if (abilityId === -1) {
+    // Try other modes, ability IDs are universal across modes,
+    // but names may differ by language (e.g. Spanish in 2.0, English in 3.0).
+    for (const otherMode of ['2.0', '3.0', 'vanilla']) {
+      if (otherMode === mode) continue;
+      abilityId = AbilityNames[otherMode]?.labelDataArray.findIndex((e) => e.wordDataArray[0].str === abilityString) ?? -1;
+      if (abilityId !== -1) break;
+    }
+  }
+
+  if (abilityId === -1) {
     abilityId = 0;
     console.error(`Bad ability string: ${abilityString}`)
   };
