@@ -42,9 +42,9 @@ describe('Dex utils Item getter tests', () => {
       expect(actual).toBe(expected);
     });
 
-    test('should return the correct item image url for an item name that is split with a space', () => {
+    test('should return a fallback item image url for an item name that is split with a space but has no matching asset', () => {
       const itemName = 'Macho Brace';
-      const expected = '/img/items/Item_Macho_Brace.webp';
+      const expected = '/img/items/Item_TM.webp';
       const actual = getItemImageUrl(itemName);
       expect(actual).toBe(expected);
     });
@@ -52,6 +52,13 @@ describe('Dex utils Item getter tests', () => {
     test('should return the correct item image url for an item name that is split with an apostrophe', () => {
       const itemName = "King’s Rock";
       const expected = '/img/items/Item_Kings_Rock.webp';
+      const actual = getItemImageUrl(itemName);
+      expect(actual).toBe(expected);
+    });
+
+    test('should fall back to a generic item icon when the item has no matching asset', () => {
+      const itemName = 'Macho Brace';
+      const expected = '/img/items/Item_TM.webp';
       const actual = getItemImageUrl(itemName);
       expect(actual).toBe(expected);
     });
