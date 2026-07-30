@@ -95,7 +95,7 @@ const LocationNameDropdown = ({
         renderInput={(params) => (
           <TextField
             {...params}
-            label="Current Location"
+            label="Localización Actual"
             fullWidth
           />
         )}

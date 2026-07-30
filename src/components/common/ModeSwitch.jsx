@@ -20,7 +20,7 @@ const ModeSwitch = () => {
         backgroundColor: colorMode === "dark" ? "var(--ifm-background-color)" : "white",
       }}
     >
-      <InputLabel id='version-selector-label'>Version</InputLabel>
+      <InputLabel id='version-selector-label'>Versión</InputLabel>
       <Select
         labelId='version-selector-label'
         id='version-selector'
