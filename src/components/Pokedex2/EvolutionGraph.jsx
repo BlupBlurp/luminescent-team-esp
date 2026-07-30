@@ -38,7 +38,7 @@ export default function EvolutionGraph({ evolutionTree }) {
       <div className="row" style={{ margin: 'auto', textAlign: 'center' }}>
         <span className="col col-12">
           <Typography variant="h6" sx={{ margin: 'auto' }}>
-            Does Not Evolve
+            No Evoluciona
           </Typography>
         </span>
       </div>

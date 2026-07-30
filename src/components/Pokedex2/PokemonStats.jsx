@@ -19,9 +19,9 @@ export const PokemonStats = ({ baseStats, baseStatsTotal, itemContainerHeight })
     { label: 'PS:', value: baseStats.hp, isHpStat: true },
     { label: 'Ataque:', value: baseStats.atk, isHpStat: false },
     { label: 'Defensa:', value: baseStats.def, isHpStat: false },
-    { label: 'At. Esp.:', value: baseStats.spa, isHpStat: false },
-    { label: 'Def. Esp.:', value: baseStats.spd, isHpStat: false },
-    { label: 'Velocidad:', value: baseStats.spe, isHpStat: false },
+    { label: 'At.Esp.:', value: baseStats.spa, isHpStat: false },
+    { label: 'Def.Esp.:', value: baseStats.spd, isHpStat: false },
+    { label: 'Vel.:', value: baseStats.spe, isHpStat: false },
   ];
 
   return (

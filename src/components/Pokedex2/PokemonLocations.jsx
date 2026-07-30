@@ -135,22 +135,22 @@ const LocationListHeader = () => (
   <>
     <Box>
       <Typography fontSize="1.125rem">
-        Name
+        Nombre
       </Typography>
     </Box>
     <Box>
       <Typography fontSize="1.125rem">
-        Method
+        Método
       </Typography>
     </Box>
     <Box>
       <Typography display="flex" justifyContent="center" fontSize="1.125rem">
-        Level
+        Nivel
       </Typography>
     </Box>
     <Box>
       <Typography display="flex" justifyContent="center" fontSize="1.125rem">
-        Chance
+        Probabilidad
       </Typography>
     </Box>
   </>
