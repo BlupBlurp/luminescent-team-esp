@@ -10,5 +10,5 @@ export const ImageWithFallback = ({ fallbackSrc, src, ...props }) => {
 
   const onError = () => setImgSrc(fallbackSrc);
 
-  return <img src={useBaseUrl(imgSrc ? imgSrc : fallbackSrc)} onError={onError} {...props} />;
+  return <img key={imgSrc} src={useBaseUrl(imgSrc ? imgSrc : fallbackSrc)} onError={onError} {...props} />;
 };
