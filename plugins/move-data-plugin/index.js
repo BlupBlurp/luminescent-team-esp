@@ -133,17 +133,18 @@ function moveDexDataPlugin(context, options) {
           let moveJson2 = null;
           let moveJsonV = null;
 
-          const move2 = content.moves2.find((m2) => m2.id === move3.id);
+          const move2 = content.moves2.find((m2) => m2.moveId === move3.moveId);
           if (move2) {
             moveJson2 = await actions.createData(`2.0lumi-${move3.movePath}.json`, JSON.stringify(move2));
           }
 
-          const moveV = content.movesV.find((mV) => mV.id === move3.id);
+          const moveV = content.movesV.find((mV) => mV.moveId === move3.moveId);
           if (moveV) {
             moveJsonV = await actions.createData(`VanilaBDSP-${move3.movePath}.json`, JSON.stringify(moveV));
           }
 
-          const movePath = `${moveDexPath}/${move2?.movePath ?? move3.movePath}`;
+          const urlSafeMoveName = encodeURIComponent(move2?.movePath ?? move3.movePath);
+          const movePath = `${moveDexPath}/${urlSafeMoveName}`;
 
           moveRoutes.push({
             path: movePath,
