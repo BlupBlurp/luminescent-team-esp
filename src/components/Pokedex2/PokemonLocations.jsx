@@ -67,9 +67,9 @@ export const PokemonLocations = ({ locations, showMore, setShowMoreLocations, po
           }}
         >
           <Typography fontSize="0.9rem">
-            {getPokemonName(pokemonId, globalState.mode)} cannot be found in the wild. Try checking previous evolutions or alternative forms.
+            {getPokemonName(pokemonId, globalState.mode)} no se encuentra en estado salvaje. Prueba a buscar sus pre-evoluciones o formas alternativas.
             <br/> <br/>
-            If you have checked previous evolutions and believe this to be an error, please report it to the Discord.
+            Si has revisado las pre-evoluciones y crees que se trata de un error, por favor, comunícalo en Discord.
           </Typography>
         </Box>
       </>
@@ -157,7 +157,7 @@ const LocationListHeader = () => (
 );
 
 const LocationListItem = ({ location, pokemonId, showIcon }) => {
-  const locationMethod = location.method === "Legendaries" ? "Legends" : location.method
+  const locationMethod = location.method;
   const pokemonName = getPokemonName(pokemonId).toLowerCase().replace(" ", "-");
 
   return (
@@ -169,7 +169,7 @@ const LocationListItem = ({ location, pokemonId, showIcon }) => {
       </Box>
       <Box display="flex">
         {showIcon &&
-          (LOCATION_ICONS[location.method].map((icon) => (
+          ((LOCATION_ICONS[location.method] ?? []).map((icon) => (
             <ImageWithFallback
               key={icon}
               src={icon}

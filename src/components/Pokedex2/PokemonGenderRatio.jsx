@@ -21,16 +21,16 @@ const PokemonGenderText = ({ malePercentage, femalePercentage }) => {
   }
 
   if (malePercentage === 100.0 && femalePercentage === 0.0) {
-    return <Typography>100% male</Typography>;
+    return <Typography>100% macho</Typography>;
   }
 
   if (femalePercentage === 100.0 && malePercentage === 0.0) {
-    return <Typography>100% female</Typography>;
+    return <Typography>100% hembra</Typography>;
   }
 
   return (
     <Typography>
-      {malePercentage.toFixed(2)}% male, {femalePercentage.toFixed(2)}% female
+      {malePercentage.toFixed(2)}% macho, {femalePercentage.toFixed(2)}% hembra
     </Typography>
   );
 };
