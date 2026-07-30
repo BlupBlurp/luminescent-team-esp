@@ -73,14 +73,28 @@ function getItemImageUrl(itemName = "", mode = GAMEDATA2) {
   }
 
   try {
-    // TODO - This is a temporary fix for the issue where the item name is not in English. We should find a better way to handle this in the future.
+    // Primary: look up the item in the current mode's language data,
+    // then convert to the English filename.
     const itemId = getItemIdFromItemName(itemName, mode);
     const englishItemName = getItemString(itemId, GAMEDATAV);
     const splitItemName = englishItemName.replace(/['’]/g, "").split(" ").join("_");
     return `/img/items/Item_${splitItemName}.webp`;
   } catch (error) {
-    const splitItemName = itemName.replace(/['’]/g, "").split(" ").join("_");
-    return `/img/items/Item_${splitItemName}.webp`;
+    // Fallback 1: if the current mode's data is unavailable (e.g., in a
+    // client-side recovery render where webpack didn't bundle the JSON),
+    // try the vanilla English data which is more likely to be available.
+    try {
+      const itemId = getItemIdFromItemName(itemName, GAMEDATAV);
+      const englishItemName = getItemString(itemId, GAMEDATAV);
+      const splitItemName = englishItemName.replace(/['’]/g, "").split(" ").join("_");
+      return `/img/items/Item_${splitItemName}.webp`;
+    } catch (secondError) {
+      // Fallback 2: last resort — construct a filename from the item name
+      // directly. This may produce a file that doesn't exist, but
+      // ImageWithFallback will handle the 404 gracefully.
+      const splitItemName = itemName.replace(/['’]/g, "").split(" ").join("_");
+      return `/img/items/Item_${splitItemName}.webp`;
+    }
   }
 }
 
@@ -90,12 +104,20 @@ function getTMImageUrl(moveType="", mode = GAMEDATA2) {
   }
 
   try {
-    // Convert localized type names to English for the TM image filename
+    // Primary: convert localized type names to English for the TM image filename
     const typeId = getTypeIdFromTypeName(moveType, mode);
     const englishTypeName = getTypeName(typeId, GAMEDATAV);
     return `/img/tms/${englishTypeName}.webp`;
   } catch (error) {
-    return `/img/tms/${moveType}.webp`;
+    // Fallback 1: try the vanilla English data
+    try {
+      const typeId = getTypeIdFromTypeName(moveType, GAMEDATAV);
+      const englishTypeName = getTypeName(typeId, GAMEDATAV);
+      return `/img/tms/${englishTypeName}.webp`;
+    } catch (secondError) {
+      // Fallback 2: use the moveType string directly
+      return `/img/tms/${moveType}.webp`;
+    }
   }
 }
 module.exports = { getItemIdFromItemName, getItemString, getItemImageUrl, getTMImageUrl, getAllItems };
