@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[89155],{939540(e){e.exports="/luminescent-team-esp/pokedex/mega-gardevoir"}}]);

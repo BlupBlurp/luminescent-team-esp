@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[689936],{777100(e){e.exports="/luminescent-team-esp/pokedex/castform-forma-sol"}}]);

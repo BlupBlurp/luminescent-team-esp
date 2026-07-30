@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[747765],{68169(e){e.exports="/luminescent-team-esp/pokedex/electrode-de-hisui"}}]);

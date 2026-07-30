@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[775080],{66774(e){e.exports="/luminescent-team-esp/pokedex/lucario"}}]);

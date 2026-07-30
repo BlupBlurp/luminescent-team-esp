@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[138843],{236265(e){e.exports="/luminescent-team-esp/pokedex/aromatisse"}}]);

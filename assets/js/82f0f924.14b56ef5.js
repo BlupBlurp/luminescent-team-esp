@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[135942],{227281(e){e.exports="/luminescent-team-esp/pokedex/audino"}}]);

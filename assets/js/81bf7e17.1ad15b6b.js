@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[76218],{477021(e){e.exports="/luminescent-team-esp/pokedex/gabite"}}]);

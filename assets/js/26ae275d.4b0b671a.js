@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[155547],{98114(e){e.exports="/luminescent-team-esp/pokedex/pikachu-pop-star"}}]);

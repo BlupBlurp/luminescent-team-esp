@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[486757],{259075(e){e.exports="/luminescent-team-esp/pokedex/incarnate-forme-enamorus"}}]);

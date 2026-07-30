@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[70639],{620115(e){e.exports="/luminescent-team-esp/pokedex/pikachu-rock-star"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[16345],{423193(e){e.exports="/luminescent-team-esp/pokedex/genesect"}}]);

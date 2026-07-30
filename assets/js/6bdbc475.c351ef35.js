@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[350168],{750966(e){e.exports="/luminescent-team-esp/pokedex/victreebel"}}]);

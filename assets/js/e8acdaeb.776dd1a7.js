@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[245868],{895736(e){e.exports="/luminescent-team-esp/pokedex/sandy-shocks"}}]);

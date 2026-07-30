@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[591278],{409822(e){e.exports="/luminescent-team-esp/pokedex/cherrim-forma-soleado"}}]);

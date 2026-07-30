@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[173020],{905316(e){e.exports="/luminescent-team-esp/pokedex/emboar"}}]);

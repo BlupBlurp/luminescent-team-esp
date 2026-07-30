@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[582816],{153548(e){e.exports="/luminescent-team-esp/pokedex/mudkip"}}]);

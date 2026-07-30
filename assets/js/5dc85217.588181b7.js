@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[44312],{542935(e){e.exports="/luminescent-team-esp/pokedex/diggersby"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[169345],{579010(e){e.exports="/luminescent-team-esp/pokedex/herdier"}}]);

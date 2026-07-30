@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[325008],{428932(e){e.exports="/luminescent-team-esp/pokedex/cherrim-forma-encapotado"}}]);

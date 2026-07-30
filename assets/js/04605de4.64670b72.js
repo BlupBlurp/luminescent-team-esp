@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[253533],{238335(e){e.exports="/luminescent-team-esp/pokedex/deoxys-forma-velocidad"}}]);

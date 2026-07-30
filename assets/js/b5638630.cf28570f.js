@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[972018],{683703(e){e.exports="/luminescent-team-esp/pokedex/finizen"}}]);

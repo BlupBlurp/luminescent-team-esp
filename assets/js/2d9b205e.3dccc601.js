@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[711052],{846364(e){e.exports="/luminescent-team-esp/pokedex/ninetales-de-alola"}}]);

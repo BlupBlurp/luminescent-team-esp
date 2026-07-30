@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[446905],{951492(e){e.exports="/luminescent-team-esp/pokedex/forma-de-rotom"}}]);

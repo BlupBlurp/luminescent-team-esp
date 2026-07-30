@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[394682],{351727(e){e.exports="/luminescent-team-esp/pokedex/furret"}}]);

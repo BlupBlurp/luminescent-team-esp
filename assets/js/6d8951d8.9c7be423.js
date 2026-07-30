@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[976470],{244071(e){e.exports="/luminescent-team-esp/pokedex/castform-forma-lluvia"}}]);

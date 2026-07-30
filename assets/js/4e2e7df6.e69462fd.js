@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[800816],{651975(e){e.exports="/luminescent-team-esp/pokedex/masterpiece-form-sinistcha"}}]);

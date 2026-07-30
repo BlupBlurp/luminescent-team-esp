@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[70488],{356467(e){e.exports="/luminescent-team-esp/pokedex/mamoswine"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[43294],{318043(e){e.exports="/luminescent-team-esp/pokedex/kirlia"}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[323468],{160721(e){e.exports="/luminescent-team-esp/pokedex/heatran"}}]);

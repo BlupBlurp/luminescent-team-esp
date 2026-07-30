@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[57905],{713788(e){e.exports="/luminescent-team-esp/pokedex/espurr"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[517932],{476474(e){e.exports="/luminescent-team-esp/pokedex/mr-mime-de-galar"}}]);

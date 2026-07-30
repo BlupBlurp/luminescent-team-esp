@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[336748],{789042(e){e.exports="/luminescent-team-esp/pokedex/tsareena"}}]);

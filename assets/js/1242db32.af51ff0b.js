@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[687081],{89427(e){e.exports="/luminescent-team-esp/pokedex/iron-moth"}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[680346],{504522(e){e.exports="/luminescent-team-esp/pokedex/magcargo"}}]);

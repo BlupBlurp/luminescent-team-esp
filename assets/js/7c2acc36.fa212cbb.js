@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[753639],{186230(e){e.exports="/luminescent-team-esp/pokedex/wormadam-tronco-basura"}}]);

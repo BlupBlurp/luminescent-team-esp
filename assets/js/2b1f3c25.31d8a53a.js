@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[599527],{680159(e){e.exports="/luminescent-team-esp/pokedex/sneasel-de-hisui"}}]);

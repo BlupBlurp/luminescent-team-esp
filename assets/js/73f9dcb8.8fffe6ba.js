@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[338727],{965061(e){e.exports="/luminescent-team-esp/pokedex/mega-mawile"}}]);

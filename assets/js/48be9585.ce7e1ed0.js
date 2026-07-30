@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[491543],{745168(e){e.exports="/luminescent-team-esp/pokedex/nuzleaf"}}]);

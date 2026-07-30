@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[732730],{342167(e){e.exports="/luminescent-team-esp/pokedex/toxel"}}]);

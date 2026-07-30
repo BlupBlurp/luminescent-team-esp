@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[440821],{635576(e){e.exports="/luminescent-team-esp/pokedex/forma-de-cast"}}]);

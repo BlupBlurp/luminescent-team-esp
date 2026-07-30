@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[552699],{5603(e){e.exports="/luminescent-team-esp/pokedex/mega-kangaskhan"}}]);

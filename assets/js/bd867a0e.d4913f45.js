@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[223514],{249353(e){e.exports="/luminescent-team-esp/pokedex/fidough"}}]);

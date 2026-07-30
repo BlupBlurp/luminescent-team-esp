@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[306542],{544504(e){e.exports="/luminescent-team-esp/pokedex/noice-face-eiscue"}}]);

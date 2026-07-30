@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[489520],{630837(e){e.exports="/luminescent-team-esp/pokedex/skiploom"}}]);

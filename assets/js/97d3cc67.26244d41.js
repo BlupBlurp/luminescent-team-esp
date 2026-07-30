@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[921227],{462780(e){e.exports="/luminescent-team-esp/pokedex/numel"}}]);

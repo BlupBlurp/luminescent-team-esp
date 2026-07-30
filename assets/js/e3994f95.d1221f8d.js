@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[593381],{907740(e){e.exports="/luminescent-team-esp/pokedex/tynamo"}}]);

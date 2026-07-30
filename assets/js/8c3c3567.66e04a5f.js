@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[773643],{555106(e){e.exports="/luminescent-team-esp/pokedex/terrakion"}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[502621],{817801(e){e.exports="/luminescent-team-esp/pokedex/dratini"}}]);

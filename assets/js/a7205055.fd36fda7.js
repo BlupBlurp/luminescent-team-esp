@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[89316],{2798(e){e.exports="/luminescent-team-esp/pokedex/super-size-pumpkaboo"}}]);

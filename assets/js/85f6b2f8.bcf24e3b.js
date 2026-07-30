@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[899400],{683388(e){e.exports="/luminescent-team-esp/pokedex/bulbasaur"}}]);

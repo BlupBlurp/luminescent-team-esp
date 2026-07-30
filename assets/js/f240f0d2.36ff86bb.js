@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[594559],{473622(e){e.exports="/luminescent-team-esp/pokedex/lampent"}}]);

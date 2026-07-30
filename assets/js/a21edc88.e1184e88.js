@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[629051],{525398(e){e.exports="/luminescent-team-esp/pokedex/crystal-onix"}}]);

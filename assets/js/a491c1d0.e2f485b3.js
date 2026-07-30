@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[547594],{313205(e){e.exports="/luminescent-team-esp/pokedex/yungoos"}}]);

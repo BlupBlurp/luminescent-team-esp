@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[381590],{527067(e){e.exports="/luminescent-team-esp/pokedex/dragapult"}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[900122],{31941(e){e.exports="/luminescent-team-esp/pokedex/shadow-altered-forme-giratina"}}]);

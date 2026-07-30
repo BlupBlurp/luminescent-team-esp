@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[914503],{996428(e){e.exports="/luminescent-team-esp/pokedex/black-kyurem"}}]);

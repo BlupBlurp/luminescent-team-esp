@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[685144],{701311(e){e.exports="/luminescent-team-esp/pokedex/nincada"}}]);

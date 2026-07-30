@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[322037],{480875(e){e.exports="/luminescent-team-esp/pokedex/onix"}}]);

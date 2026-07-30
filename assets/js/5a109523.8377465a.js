@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[370593],{131086(e){e.exports="/luminescent-team-esp/pokedex/cacturne"}}]);

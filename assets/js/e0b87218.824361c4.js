@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[478338],{860691(e){e.exports="/luminescent-team-esp/pokedex/girafarig"}}]);

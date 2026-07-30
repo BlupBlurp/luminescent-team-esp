@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[602259],{543205(e){e.exports="/luminescent-team-esp/pokedex/togepi"}}]);

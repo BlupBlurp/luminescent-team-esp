@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[865202],{396591(e){e.exports="/luminescent-team-esp/pokedex/cleffa"}}]);

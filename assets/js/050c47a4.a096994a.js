@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[358545],{322649(e){e.exports="/luminescent-team-esp/pokedex/boltund"}}]);

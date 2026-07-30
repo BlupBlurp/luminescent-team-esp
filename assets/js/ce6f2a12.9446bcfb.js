@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[358325],{582109(e){e.exports="/luminescent-team-esp/pokedex/marshadow"}}]);

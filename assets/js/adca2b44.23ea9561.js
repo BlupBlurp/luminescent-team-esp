@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[113820],{819495(e){e.exports="/luminescent-team-esp/pokedex/hisui-samurott"}}]);

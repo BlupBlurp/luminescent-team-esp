@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[700157],{762775(e){e.exports="/luminescent-team-esp/pokedex/caph-starmobile-revavroom"}}]);

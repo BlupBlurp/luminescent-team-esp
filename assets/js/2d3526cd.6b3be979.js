@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[798436],{536516(e){e.exports="/luminescent-team-esp/pokedex/porygon2"}}]);

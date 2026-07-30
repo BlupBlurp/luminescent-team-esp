@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[621352],{454684(e){e.exports="/luminescent-team-esp/pokedex/fezandipiti"}}]);

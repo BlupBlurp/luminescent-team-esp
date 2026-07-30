@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[554142],{315403(e){e.exports="/luminescent-team-esp/pokedex/ralts"}}]);

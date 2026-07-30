@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[703694],{967520(e){e.exports="/luminescent-team-esp/pokedex/luvdisc"}}]);

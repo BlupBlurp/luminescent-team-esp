@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[793328],{196508(e){e.exports="/luminescent-team-esp/pokedex/polar-pattern-vivillon"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[387749],{721504(e){e.exports="/luminescent-team-esp/pokedex/gible"}}]);

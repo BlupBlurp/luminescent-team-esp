@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[636725],{239560(e){e.exports="/luminescent-team-esp/pokedex/gossifleur"}}]);

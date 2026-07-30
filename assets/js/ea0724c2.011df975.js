@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[723695],{635668(e){e.exports="/luminescent-team-esp/pokedex/antique-form-sinistea"}}]);

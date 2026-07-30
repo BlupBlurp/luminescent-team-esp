@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[186525],{973334(e){e.exports="/luminescent-team-esp/pokedex/wormadam-tronco-arena"}}]);

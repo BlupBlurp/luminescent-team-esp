@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[360322],{616732(e){e.exports="/luminescent-team-esp/pokedex/spinarak"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[896824],{361e3(e){e.exports="/luminescent-team-esp/pokedex/orange-flower-floette"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[404192],{167245(e){e.exports="/luminescent-team-esp/pokedex/gmax-rillaboom"}}]);

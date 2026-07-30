@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[183211],{743660(e){e.exports="/luminescent-team-esp/pokedex/-grass-silvally"}}]);

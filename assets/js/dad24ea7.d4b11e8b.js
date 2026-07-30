@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[482477],{165219(e){e.exports="/luminescent-team-esp/pokedex/larvesta"}}]);

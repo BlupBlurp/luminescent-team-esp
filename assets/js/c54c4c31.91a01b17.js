@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[976531],{354166(e){e.exports="/luminescent-team-esp/pokedex/salandit"}}]);

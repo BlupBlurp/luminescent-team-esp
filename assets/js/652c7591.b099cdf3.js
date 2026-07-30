@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[483951],{942312(e){e.exports="/luminescent-team-esp/pokedex/moltres"}}]);

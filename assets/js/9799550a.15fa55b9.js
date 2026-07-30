@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[596454],{331042(e){e.exports="/luminescent-team-esp/pokedex/elekid"}}]);

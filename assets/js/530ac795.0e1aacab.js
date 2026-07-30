@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[310302],{530541(e){e.exports="/luminescent-team-esp/pokedex/seaking"}}]);

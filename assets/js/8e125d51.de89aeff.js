@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[479546],{875147(e){e.exports="/luminescent-team-esp/pokedex/turtonator"}}]);
