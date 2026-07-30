@@ -20,10 +20,10 @@ const CRITICAL_HITS = "impactos críticos";
 const RECEIVE_DAMAGE = "Recibir";
 const FOLLOWER = "Seguidor";
 const RNG = "RNG";
-const ITEM_STRING_FUNCTION = "getItemString";
-const MOVE_STRING_FUNCTION = "getMoveString";
-const POKEMON_NAME_FUNCTION = "getPokemonName";
-const TYPE_NAME_FUNCTION = "getTypeName";
+const ITEM_STRING_FUNCTION = getItemString.name;
+const MOVE_STRING_FUNCTION = getMoveString.name;
+const POKEMON_NAME_FUNCTION = getPokemonName.name;
+const TYPE_NAME_FUNCTION = getTypeName.name;
 
 const EVOLUTION_METHOD_DETAILS = {
   0: {
