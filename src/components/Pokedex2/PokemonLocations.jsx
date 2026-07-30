@@ -54,7 +54,7 @@ export const PokemonLocations = ({ locations, showMore, setShowMoreLocations, po
           justifyContent={{sm: "center", md: "center"}}
           width={{md: "80%", lg: "unset"}}
         >
-          <Typography variant='h6'>Locations:</Typography>
+          <Typography variant='h6'>Localizaciones:</Typography>
         </Box>
 
         <Box sx={{
@@ -83,7 +83,7 @@ export const PokemonLocations = ({ locations, showMore, setShowMoreLocations, po
         justifyContent={{sm: "center", md: "center"}}
         width={{md: "80%", lg: "unset"}}
       >
-        <Typography variant='h6'>Locations:</Typography>
+        <Typography variant='h6'>Localizaciones:</Typography>
       </Box>
       <Container
         ref={containerRef}

@@ -234,7 +234,7 @@ export const PokemonPageContent = ({
           </Box>
           <Box width={{sm: "80%", md: "unset"}} gridColumn="span 1">
             <Box display="flex" justifyContent="center">
-              <Typography variant='h6'>Additional Info:</Typography>
+              <Typography variant='h6'>Información adicional:</Typography>
             </Box>
             <Container
               sx={{
@@ -248,7 +248,7 @@ export const PokemonPageContent = ({
               <PokemonEggGroups eggGroupNames={pokemonInfo.eggGroupNames} sx={{ marginTop: '16px' }} />
               <PokemonGenderRatio genderDecimalValue={pokemonInfo.genderDecimalValue} sx={{ marginTop: '16px' }} />
               <Box sx={{ marginTop: "16px"}}>
-                <Typography sx={{ fontWeight: 800, fontSize: '0.8rem' }}>Catch Chance:</Typography>
+                <Typography sx={{ fontWeight: 800, fontSize: '0.8rem' }}>Ratio de captura:</Typography>
                 <Container>
                   <Typography>{pokemonInfo.catchChance}</Typography>
                 </Container>

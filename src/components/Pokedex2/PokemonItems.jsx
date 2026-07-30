@@ -34,7 +34,7 @@ export const PokemonItems = ({ item1, item2, item3 }) => {
               }}
               onClick={handleOpen}
             >
-              Wild Held Items:
+              Objetos en encuentros salvajes:
             </Typography>
           </Box>
         </>
