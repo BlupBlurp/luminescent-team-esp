@@ -1,5 +1,14 @@
 const { GAMEDATA2, GAMEDATAV, ItemNames, ItemTable } = require('../../../__gamedata');
 
+const ITEM_IMAGE_FALLBACK = '/img/items/Item_TM.webp';
+const ITEM_IMAGE_OVERRIDES = {
+  'Macho Brace': ITEM_IMAGE_FALLBACK,
+  'Macho_Brace': ITEM_IMAGE_FALLBACK,
+  "Leader's Crest": ITEM_IMAGE_FALLBACK,
+  'Leaders_Crest': ITEM_IMAGE_FALLBACK,
+  None: ITEM_IMAGE_FALLBACK,
+};
+
 function getItemIdFromItemName(itemName, mode = GAMEDATA2) {
   if (!itemName) throw Error(`Bad item name: ${itemName}`);
   const ModeItemNames = ItemNames[mode];
@@ -68,18 +77,27 @@ function getItemProperties(itemId = 1, mode = GAMEDATA2) {
 
 function getItemImageUrl(itemName = "", mode = GAMEDATA2) {
   if (!itemName || itemName === "None") {
-    return `/img/items/Item_None.webp`;
+    return ITEM_IMAGE_FALLBACK;
   }
+
+  const normalizedItemName = itemName.replace(/['’]/g, "").split(" ").join("_");
+  const override = ITEM_IMAGE_OVERRIDES[itemName] || ITEM_IMAGE_OVERRIDES[normalizedItemName];
+  if (override) {
+    return override;
+  }
+
+  const getItemAsset = (resolvedName) => {
+    const splitItemName = resolvedName.replace(/['’]/g, "").split(" ").join("_");
+    return `/img/items/Item_${splitItemName}.webp`;
+  };
 
   try {
     // TODO - This is a temporary fix for the issue where the item name is not in English. We should find a better way to handle this in the future.
     const itemId = getItemIdFromItemName(itemName, mode);
     const englishItemName = getItemString(itemId, GAMEDATAV);
-    const splitItemName = englishItemName.replace(/['’]/g, "").split(" ").join("_");
-    return `/img/items/Item_${splitItemName}.webp`;
+    return getItemAsset(englishItemName);
   } catch (error) {
-    const splitItemName = itemName.replace(/['’]/g, "").split(" ").join("_");
-    return `/img/items/Item_${splitItemName}.webp`;
+    return getItemAsset(normalizedItemName);
   }
 }
 
