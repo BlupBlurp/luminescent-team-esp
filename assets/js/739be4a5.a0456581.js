@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[488557],{616176(e){e.exports="/luminescent-team-esp/pokedex/tandemaus"}}]);

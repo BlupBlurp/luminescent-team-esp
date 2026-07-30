@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[279613],{962383(e){e.exports="/luminescent-team-esp/pokedex/pignite"}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[658281],{82140(e){e.exports="/luminescent-team-esp/pokedex/gorging-form-cramorant"}}]);

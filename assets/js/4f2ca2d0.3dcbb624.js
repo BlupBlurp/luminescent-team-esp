@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[411769],{201468(e){e.exports="/luminescent-team-esp/pokedex/spiritomb"}}]);

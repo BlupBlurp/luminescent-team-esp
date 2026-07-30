@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[378791],{312480(e){e.exports="/luminescent-team-esp/pokedex/centiskorch"}}]);

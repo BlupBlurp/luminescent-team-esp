@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[610077],{405979(e){e.exports="/luminescent-team-esp/pokedex/slowpoke"}}]);

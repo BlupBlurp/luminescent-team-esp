@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[793263],{651733(e){e.exports="/luminescent-team-esp/pokedex/gmax-grimmsnarl"}}]);

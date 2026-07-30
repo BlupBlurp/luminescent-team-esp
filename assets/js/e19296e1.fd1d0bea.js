@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[529467],{41299(e){e.exports="/luminescent-team-esp/pokedex/midnight-form-lycanroc"}}]);

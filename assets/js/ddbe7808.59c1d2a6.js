@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[198821],{482214(e){e.exports="/luminescent-team-esp/pokedex/jolteon"}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[162315],{540351(e){e.exports="/luminescent-team-esp/pokedex/pikachu-phd"}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[912356],{436491(e){e.exports="/luminescent-team-esp/pokedex/latias"}}]);

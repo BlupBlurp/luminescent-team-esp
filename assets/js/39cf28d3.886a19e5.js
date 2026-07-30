@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[403313],{39345(e){e.exports="/luminescent-team-esp/pokedex/marowak-ghost"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[450401],{219189(e){e.exports="/luminescent-team-esp/pokedex/shellos-mar-este"}}]);

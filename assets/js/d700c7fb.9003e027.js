@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[10986],{494678(e){e.exports="/luminescent-team-esp/pokedex/diglett"}}]);

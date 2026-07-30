@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[673832],{990451(e){e.exports="/luminescent-team-esp/pokedex/farfetchd-farfetchd-de-galar"}}]);

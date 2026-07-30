@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[893936],{965667(e){e.exports="/luminescent-team-esp/pokedex/burmy-tronco-planta"}}]);

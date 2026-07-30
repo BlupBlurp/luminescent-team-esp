@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[513815],{670142(e){e.exports="/luminescent-team-esp/pokedex/burmy-tronco-arena"}}]);

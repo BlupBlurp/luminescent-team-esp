@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[560155],{299595(e){e.exports="/luminescent-team-esp/pokedex/male-basculegion"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[799569],{843270(e){e.exports="/luminescent-team-esp/pokedex/snom"}}]);

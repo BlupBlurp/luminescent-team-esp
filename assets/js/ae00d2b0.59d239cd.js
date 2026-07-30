@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[13981],{133398(e){e.exports="/luminescent-team-esp/pokedex/average-size-gourgeist"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[603979],{659177(e){e.exports="/luminescent-team-esp/pokedex/maschiff"}}]);

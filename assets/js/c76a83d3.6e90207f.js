@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[172166],{478649(e){e.exports="/luminescent-team-esp/pokedex/toxicroak"}}]);

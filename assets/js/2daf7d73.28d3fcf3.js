@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[653335],{180881(e){e.exports="/luminescent-team-esp/pokedex/pelipper"}}]);

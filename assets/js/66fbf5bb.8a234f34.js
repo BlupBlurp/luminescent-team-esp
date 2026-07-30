@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[591260],{885570(e){e.exports="/luminescent-team-esp/pokedex/brionne"}}]);

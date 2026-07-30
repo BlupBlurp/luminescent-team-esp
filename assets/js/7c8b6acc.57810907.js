@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[195186],{731607(e){e.exports="/luminescent-team-esp/pokedex/carkol"}}]);

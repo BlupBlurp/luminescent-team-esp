@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[244170],{620537(e){e.exports="/luminescent-team-esp/pokedex/carbink"}}]);

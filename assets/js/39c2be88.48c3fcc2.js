@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[421727],{816354(e){e.exports="/luminescent-team-esp/pokedex/kingdra"}}]);

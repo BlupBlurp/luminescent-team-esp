@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[182206],{92650(e){e.exports="/luminescent-team-esp/pokedex/gmax-meowth"}}]);

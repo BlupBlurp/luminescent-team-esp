@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[767477],{132630(e){e.exports="/luminescent-team-esp/pokedex/origin-forme-dialga"}}]);

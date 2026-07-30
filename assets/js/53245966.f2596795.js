@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[683015],{387288(e){e.exports="/luminescent-team-esp/pokedex/linoone-de-galar"}}]);

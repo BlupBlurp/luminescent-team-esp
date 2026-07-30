@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[627483],{461085(e){e.exports="/luminescent-team-esp/pokedex/muk"}}]);

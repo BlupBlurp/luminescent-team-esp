@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[371146],{87316(e){e.exports="/luminescent-team-esp/pokedex/huntail"}}]);

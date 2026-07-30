@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[351166],{381607(e){e.exports="/luminescent-team-esp/pokedex/fletchinder"}}]);

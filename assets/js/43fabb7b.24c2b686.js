@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[243832],{562834(e){e.exports="/luminescent-team-esp/pokedex/castform-forma-nieve"}}]);

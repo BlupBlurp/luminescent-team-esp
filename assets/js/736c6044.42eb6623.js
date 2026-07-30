@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[720922],{341385(e){e.exports="/luminescent-team-esp/pokedex/sigilyph"}}]);

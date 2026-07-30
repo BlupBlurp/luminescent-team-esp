@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[820277],{454330(e){e.exports="/luminescent-team-esp/pokedex/wellspring-mask-ogerpon"}}]);

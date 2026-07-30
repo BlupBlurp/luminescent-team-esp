@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[685040],{79157(e){e.exports="/luminescent-team-esp/pokedex/terastal-teal-mask-ogerpon"}}]);

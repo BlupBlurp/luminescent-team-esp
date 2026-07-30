@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[83372],{876753(e){e.exports="/luminescent-team-esp/pokedex/appletun"}}]);

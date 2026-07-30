@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[32333],{386597(e){e.exports="/luminescent-team-esp/pokedex/litwick"}}]);

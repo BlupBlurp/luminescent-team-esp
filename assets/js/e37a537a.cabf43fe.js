@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[856263],{790920(e){e.exports="/luminescent-team-esp/pokedex/primal-dialga"}}]);

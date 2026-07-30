@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[959234],{591587(e){e.exports="/luminescent-team-esp/pokedex/nacli"}}]);

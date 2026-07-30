@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[60058],{99820(e){e.exports="/luminescent-team-esp/pokedex/granbull"}}]);

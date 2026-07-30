@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[452245],{680879(e){e.exports="/luminescent-team-esp/pokedex/flapple"}}]);

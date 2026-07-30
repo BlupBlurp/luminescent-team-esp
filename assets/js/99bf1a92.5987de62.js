@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[719838],{391008(e){e.exports="/luminescent-team-esp/pokedex/rotom-fro"}}]);

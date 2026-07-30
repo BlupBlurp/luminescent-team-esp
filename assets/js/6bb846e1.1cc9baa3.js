@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[749373],{692367(e){e.exports="/luminescent-team-esp/pokedex/petilil"}}]);

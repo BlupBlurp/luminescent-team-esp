@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[510584],{894518(e){e.exports="/luminescent-team-esp/pokedex/rolycoly"}}]);

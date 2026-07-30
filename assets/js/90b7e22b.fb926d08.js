@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[632728],{816646(e){e.exports="/luminescent-team-esp/pokedex/chansey"}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[710246],{931310(e){e.exports="/luminescent-team-esp/pokedex/mew"}}]);

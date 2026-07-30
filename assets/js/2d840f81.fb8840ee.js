@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[609210],{192972(e){e.exports="/luminescent-team-esp/pokedex/toedscruel"}}]);

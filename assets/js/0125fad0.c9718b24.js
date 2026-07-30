@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[177238],{160835(e){e.exports="/luminescent-team-esp/pokedex/litten"}}]);

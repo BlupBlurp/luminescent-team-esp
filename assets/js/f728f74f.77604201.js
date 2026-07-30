@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[793167],{741262(e){e.exports="/luminescent-team-esp/pokedex/rotom-corte"}}]);

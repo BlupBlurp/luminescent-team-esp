@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[404616],{801735(e){e.exports="/luminescent-team-esp/pokedex/nymble"}}]);

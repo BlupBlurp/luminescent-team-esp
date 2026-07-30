@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[248918],{141746(e){e.exports="/luminescent-team-esp/pokedex/froakie"}}]);

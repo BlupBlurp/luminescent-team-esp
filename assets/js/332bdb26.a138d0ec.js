@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[315707],{439726(e){e.exports="/luminescent-team-esp/pokedex/mantyke"}}]);

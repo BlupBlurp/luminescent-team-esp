@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[683069],{825866(e){e.exports="/luminescent-team-esp/pokedex/paras"}}]);

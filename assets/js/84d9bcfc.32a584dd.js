@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[245318],{638794(e){e.exports="/luminescent-team-esp/pokedex/rattata-de-alola"}}]);

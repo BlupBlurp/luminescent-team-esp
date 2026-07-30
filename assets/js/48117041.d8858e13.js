@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[318057],{458667(e){e.exports="/luminescent-team-esp/pokedex/great-tusk"}}]);

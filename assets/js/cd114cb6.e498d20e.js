@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[589899],{820711(e){e.exports="/luminescent-team-esp/pokedex/shroodle"}}]);

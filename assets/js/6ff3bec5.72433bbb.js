@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[70965],{569779(e){e.exports="/luminescent-team-esp/pokedex/nidorina"}}]);

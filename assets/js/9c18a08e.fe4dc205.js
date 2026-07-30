@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[677746],{397908(e){e.exports="/luminescent-team-esp/pokedex/power-construct-10-forme-zygarde"}}]);

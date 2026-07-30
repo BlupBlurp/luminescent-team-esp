@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[452650],{344765(e){e.exports="/luminescent-team-esp/pokedex/cubone"}}]);

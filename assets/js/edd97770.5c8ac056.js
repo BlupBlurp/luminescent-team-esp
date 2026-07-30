@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[403442],{58643(e){e.exports="/luminescent-team-esp/pokedex/wormadam-tronco-planta"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[441145],{67499(e){e.exports="/luminescent-team-esp/pokedex/venipede"}}]);

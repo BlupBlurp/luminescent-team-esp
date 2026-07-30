@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[256401],{296364(e){e.exports="/luminescent-team-esp/pokedex/low-power-mode-miraidon"}}]);

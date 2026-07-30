@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[819470],{542780(e){e.exports="/luminescent-team-esp/pokedex/clauncher"}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[895869],{410829(e){e.exports="/luminescent-team-esp/pokedex/liepard"}}]);

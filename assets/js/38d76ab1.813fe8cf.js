@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[504633],{20092(e){e.exports="/luminescent-team-esp/pokedex/leafeon"}}]);

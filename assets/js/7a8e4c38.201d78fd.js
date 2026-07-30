@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[645100],{790751(e){e.exports="/luminescent-team-esp/pokedex/flittle"}}]);

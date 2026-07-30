@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[6131],{70452(e){e.exports="/luminescent-team-esp/pokedex/white-flower-florges"}}]);

@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[203928],{368444(e){e.exports="/luminescent-team-esp/pokedex/deino"}}]);

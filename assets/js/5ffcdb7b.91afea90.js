@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[14406],{356410(e){e.exports="/luminescent-team-esp/pokedex/dunsparce"}}]);

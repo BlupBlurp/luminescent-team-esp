@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[460371],{622540(e){e.exports="/luminescent-team-esp/pokedex/mothim"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[500408],{797467(e){e.exports="/luminescent-team-esp/pokedex/zangoose"}}]);

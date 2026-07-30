@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[429766],{817802(e){e.exports="/luminescent-team-esp/pokedex/escavalier"}}]);

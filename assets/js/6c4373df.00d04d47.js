@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[974601],{223241(e){e.exports="/luminescent-team-esp/pokedex/houndstone"}}]);

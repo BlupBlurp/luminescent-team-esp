@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[197948],{38823(e){e.exports="/luminescent-team-esp/pokedex/fearow"}}]);

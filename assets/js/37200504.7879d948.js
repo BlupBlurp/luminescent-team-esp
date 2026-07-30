@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[943230],{815096(e){e.exports="/luminescent-team-esp/pokedex/muk-de-alola"}}]);

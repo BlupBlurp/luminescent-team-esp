@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[563752],{315869(e){e.exports="/luminescent-team-esp/pokedex/exeggutor-de-alola"}}]);

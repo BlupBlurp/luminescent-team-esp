@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[310058],{651359(e){e.exports="/luminescent-team-esp/pokedex/beartic"}}]);

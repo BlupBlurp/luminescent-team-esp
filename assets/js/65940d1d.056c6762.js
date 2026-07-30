@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[159024],{426626(e){e.exports="/luminescent-team-esp/pokedex/stufful"}}]);

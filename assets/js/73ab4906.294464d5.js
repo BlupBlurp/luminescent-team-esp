@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[696859],{887725(e){e.exports="/luminescent-team-esp/pokedex/regieleki"}}]);

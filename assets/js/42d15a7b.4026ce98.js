@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[308417],{422875(e){e.exports="/luminescent-team-esp/pokedex/forma-de-arceus"}}]);

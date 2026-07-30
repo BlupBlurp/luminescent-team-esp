@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[257130],{891092(e){e.exports="/luminescent-team-esp/pokedex/sandygast"}}]);

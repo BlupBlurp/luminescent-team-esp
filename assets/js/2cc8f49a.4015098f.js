@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkluminescent_team=globalThis.webpackChunkluminescent_team||[]).push([[716615],{615293(e){e.exports="/luminescent-team-esp/pokedex/rotom-ventilador"}}]);
