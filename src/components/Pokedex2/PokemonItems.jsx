@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Box, Typography, Modal } from '@mui/material';
 import { getPokemon } from "../../../plugins/pokedex-data-plugin/dex/pokemon";
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import { getItemImageUrl } from '../../../plugins/pokedex-data-plugin/dex/item';
 import { useGlobalState } from '../common/GlobalState';
 import { ImageWithFallback } from '../common/ImageWithFallback';
@@ -92,7 +93,7 @@ const ItemContainer = ({item, percentage, span='span 2', mode=GAMEDATA2}) => {
       <Box gridColumn={span}>
         <ImageWithFallback
           key={item}
-          src={getItemImageUrl(item, mode)}
+          src={useBaseUrl(`${getItemImageUrl(item, mode)}`)}
           fallbackSrc={`/img/pkm/pm0000_00_00_00_L.webp`}
           width="40"
           alt={item}

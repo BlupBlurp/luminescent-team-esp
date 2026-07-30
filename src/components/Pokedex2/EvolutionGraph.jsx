@@ -122,10 +122,10 @@ export default function EvolutionGraph({ evolutionTree }) {
     const evoFunction = methodDetail.function.name;
     const evoImages = [];
     if (methodDetail.method.includes(EvoConstants.FRIENDSHIP)) {
-      evoImages.push(getItemImageUrl("Soothe Bell", globalState.mode))
+      evoImages.push(getItemImageUrl("Soothe Bell"))
     }
     if (methodDetail.method.includes(EvoConstants.LEVEL)) {
-      evoImages.push(getItemImageUrl("Rare Candy", globalState.mode));
+      evoImages.push(getItemImageUrl("Rare Candy"));
     }
     if (methodDetail.method.includes(EvoConstants.CRITICAL_HITS)) {
       evoImages.push("/img/custom/criticalhits.webp")
@@ -137,15 +137,15 @@ export default function EvolutionGraph({ evolutionTree }) {
       evoImages.push("/img/custom/followersteps.webp")
     }
     if (evoFunction === EvoConstants.ITEM_STRING_FUNCTION) {
-      evoImages.push(getItemImageUrl(evoMethod, globalState.mode));
+      evoImages.push(getItemImageUrl(evoMethod));
     } else if (evoFunction === EvoConstants.MOVE_STRING_FUNCTION) {
-      const moveType = getTypeName(getMoveProperties(methodParameter, globalState.mode).type, globalState.mode);
-      evoImages.push(getTMImageUrl(moveType, globalState.mode));
+      const moveType = getTypeName(getMoveProperties(methodParameter, globalState.mode).type);
+      evoImages.push(getTMImageUrl(moveType));
     } else if (evoFunction === EvoConstants.POKEMON_NAME_FUNCTION) {
       evoImages.push(`/img/pkm/${getPokemonImageFilename(methodParameter, 0)}`);
     } else if (evoFunction === EvoConstants.TYPE_NAME_FUNCTION) {
-      const moveType = getTypeName(methodParameter, globalState.mode);
-      evoImages.push(getTMImageUrl(moveType, globalState.mode));
+      const moveType = getTypeName(methodParameter);
+      evoImages.push(getTMImageUrl(moveType));
     }
     if (methodDetail.method.includes(EvoConstants.RNG)) {
       evoImages.push("/img/custom/randomchance.webp")
@@ -168,7 +168,7 @@ export default function EvolutionGraph({ evolutionTree }) {
       evoImages.push("/img/custom/female.webp")
     }
     if (methodDetail.method.includes(EvoConstants.BEAUTY)) {
-      evoImages.push(getItemImageUrl("Blue Scarf", globalState.mode))
+      evoImages.push(getItemImageUrl("Blue Scarf"))
     }
     return evoImages;
   };

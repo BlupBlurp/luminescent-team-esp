@@ -2,15 +2,13 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import React, { useState, useEffect } from 'react';
 
 export const ImageWithFallback = ({ fallbackSrc, src, ...props }) => {
-  const [hasError, setHasError] = useState(false);
+  const [imgSrc, setImgSrc] = useState(src);
 
-  // Reset error state when the src changes
   useEffect(() => {
-    setHasError(false);
+    setImgSrc(src);
   }, [src]);
 
-  const onError = () => setHasError(true);
-  const displaySrc = hasError ? fallbackSrc : src;
+  const onError = () => setImgSrc(fallbackSrc);
 
-  return <img key={src} src={useBaseUrl(displaySrc)} onError={onError} {...props} />;
+  return <img key={imgSrc} src={useBaseUrl(imgSrc ? imgSrc : fallbackSrc)} onError={onError} {...props} />;
 };
