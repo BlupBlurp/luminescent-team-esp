@@ -65,7 +65,7 @@ export const PokemonAbility = ({
     <div style={{ display: 'flex' }}>
       {label && (
         <Typography>
-          Ability:&nbsp;
+          Habilidad:&nbsp;
         </Typography>
       )}
       <Typography

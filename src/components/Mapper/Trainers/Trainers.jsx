@@ -60,7 +60,7 @@ export const TrainerDropdown = ({ trainer, setTrainer, trainerList, smallest }) 
         renderInput={(params) => (
           <TextField
             {...params}
-            label="Select Trainer"
+            label="Selecciona Entrenador"
           />
         )}
       />
@@ -158,11 +158,11 @@ const MonDetails = ({smallest, pokemon, pokemonInfo}) => {
         )}
       </Box>
       <Typography sx={{ ...responsiveFontSize }}>
-        {`Nature: ${pokemon.nature ? pokemon.nature : "None?"}`}
+        {`Naturaleza: ${pokemon.nature ? pokemon.nature : "None?"}`}
       </Typography>
       <PokemonAbility abilityName={pokemon.ability} sx={{ ...responsiveFontSize}} label />
       <Typography sx={{ ...responsiveFontSize }}>
-        {`Item: ${pokemon.item ? pokemon.item : "None"}`}
+        {`Objeto: ${pokemon.item ? pokemon.item : "Ninguno"}`}
       </Typography>
     </Box>
   );

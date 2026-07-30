@@ -183,7 +183,7 @@ const EVOLUTION_METHOD_DETAILS = {
     function: doNothing,
   },
   26: {
-    method: 'Subiendo de Nivel con Piedra Musgo',
+    method: 'Subiendo de Nivel con Roca musgo',
     requiresLevel: false,
     parameterType: 'None',
     function: doNothing,
@@ -201,7 +201,7 @@ const EVOLUTION_METHOD_DETAILS = {
     function: doNothing,
   },
   29: {
-    method: `Amistad + ${REPLACE_STRING} Move`,
+    method: `Amistad + Movimiento ${REPLACE_STRING}`,
     requiresLevel: false,
     parameterType: 'Typing',
     function: getTypeName,

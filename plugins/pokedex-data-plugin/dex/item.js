@@ -1,4 +1,5 @@
 const { GAMEDATA2, GAMEDATAV, ItemNames, ItemTable } = require('../../../__gamedata');
+const { getTypeIdFromTypeName, getTypeName } = require('./types');
 
 function getItemIdFromItemName(itemName, mode = GAMEDATA2) {
   if (!itemName) throw Error(`Bad item name: ${itemName}`);
@@ -83,7 +84,18 @@ function getItemImageUrl(itemName = "", mode = GAMEDATA2) {
   }
 }
 
-function getTMImageUrl(moveType="") {
-  return `/img/tms/${moveType}.webp`
+function getTMImageUrl(moveType="", mode = GAMEDATA2) {
+  if (!moveType) {
+    return `/img/tms/Normal.webp`;
+  }
+
+  try {
+    // Convert localized type names to English for the TM image filename
+    const typeId = getTypeIdFromTypeName(moveType, mode);
+    const englishTypeName = getTypeName(typeId, GAMEDATAV);
+    return `/img/tms/${englishTypeName}.webp`;
+  } catch (error) {
+    return `/img/tms/${moveType}.webp`;
+  }
 }
 module.exports = { getItemIdFromItemName, getItemString, getItemImageUrl, getTMImageUrl, getAllItems };

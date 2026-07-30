@@ -179,7 +179,7 @@ export const PokemonFilterDrawer = ({
                     }}
                     value={{ id: searchTable.ability.value, name: searchTable.ability.label.replace(/^Ability:\s*/, '') }}
                     defaultValue={{ name: "", id: "" }}
-                    onChange={(e, abilityObj) => handleChange("ability", { value: abilityObj.id, label: `Ability: ${abilityObj.name}` })}
+                    onChange={(e, abilityObj) => handleChange("ability", { value: abilityObj.id, label: `Habilidad: ${abilityObj.name}` })}
                     disableClearable
                     renderInput={(params) => (
                         <TextField

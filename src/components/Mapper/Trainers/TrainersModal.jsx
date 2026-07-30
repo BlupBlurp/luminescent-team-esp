@@ -55,8 +55,8 @@ const TrainersModal = ({
 
     return `${getPokemonName(pokemon.id)} ${genderSymbol} @ ${pokemon.item}
 Level: ${pokemon.level}
-${pokemon.nature} Nature
-Ability: ${pokemon.ability}
+${pokemon.nature} Naturaleza
+Habilidad: ${pokemon.ability}
 EVs: ${pokemon.evhp} HP / ${pokemon.evatk} Atk / ${pokemon.evdef} Def / ${pokemon.evspatk} SpA / ${pokemon.evspdef} SpD / ${pokemon.evspeed} Spe
 IVs: ${pokemon.ivhp} HP / ${pokemon.ivatk} Atk / ${pokemon.ivdef} Def / ${pokemon.ivspatk} SpA / ${pokemon.ivspdef} SpD / ${pokemon.ivspeed} Spe
 ${moves}`;
