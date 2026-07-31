@@ -209,6 +209,12 @@ const config = {
             href: 'https://discord.gg/luminescent',
             position: 'right',
           },
+          {
+            'aria-label': 'Blup Discord',
+            className: 'navbar--politoed-link',
+            href: 'https://discord.gg/5Qwz85EvC3',
+            position: 'right',
+          },
         ],
       },
       footer: {
