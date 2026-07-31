@@ -127,7 +127,7 @@ html[data-theme='dark'] .navbar--discord-link:before {
 	content: '';
 	height: 100%;
 	display: block;
-	background: url("https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png") center/contain no-repeat;
+	background: url("/img/politoed-link.webp") center/contain no-repeat;
 }
 
 .navbar__search-input {
