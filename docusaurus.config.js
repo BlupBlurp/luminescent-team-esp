@@ -20,7 +20,7 @@ const MOVEDEX_BASE_PATH = 'moves';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Luminescent Platinum',
+  title: 'Platino Luminiscente',
   tagline: 'A BDSP ROM Hack',
   url: 'https://luminescent.team',
   baseUrl: BASE_URL,
@@ -186,7 +186,7 @@ const config = {
           {
             type: 'dropdown',
             position: 'left',
-            label: 'Documents',
+            label: 'Documentos',
             items: [
               { to: '/docs', label: "Luminescent" }
             ]
@@ -200,7 +200,7 @@ const config = {
             items: [
               ...(isPokedexEnabled ? [{ to: POKEDEX_BASE_PATH, label: 'Pokédex' }] : []),
               { to: '/mapper', label: "Mapper (Beta)" },
-              { to: '/moves', label: "Moves" },
+              { to: '/moves', label: "Movimientos" },
             ],
           },
           {

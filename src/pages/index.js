@@ -22,7 +22,15 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="https://www.nexusmods.com/pokemonbdsp/mods/1"  style={linkStyles}>
-            Download Luminescent Platinum ⬇️
+            Descarga Platino Luminiscente ⬇️
+          </Link>
+        </div>
+        <br />
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="https://www.nexusmods.com/pokemonbdsp/mods/49"  style={linkStyles}>
+            Descarga la traducción al Español 🇪🇸
           </Link>
         </div>
         <br />
@@ -30,7 +38,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs" style={linkStyles}>
-            View all of Luminescent Platinum's documentation and features! 📖
+            ¡Consulta toda la documentación y características de Platino Luminiscente! 📖
           </Link>
         </div>
         <br />
@@ -38,7 +46,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/rom-hacking" style={linkStyles}>
-            Learn how to make your own romhack ⏱️
+            Aprende a crear tu propio hackrom ⏱️
           </Link>
         </div>
       </div>
