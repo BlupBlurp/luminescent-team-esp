@@ -206,12 +206,10 @@ function calcHiddenPower(pokemonStats) {
 }
 
 function getHiddenPowerNameWithType(hiddenPowerType) {
-  console.log("Getting Hidden Power name for type index:", hiddenPowerType);
   if (hiddenPowerType < 0 || hiddenPowerType >= HIDDEN_POWER_TYPES.length) {
     throw new Error(`Invalid Hidden Power type index: ${hiddenPowerType}`);
   }
-  console.log(`Hidden Power type index ${hiddenPowerType} corresponds to type: ${HIDDEN_POWER_TYPES[hiddenPowerType]}`);
-  return `${HIDDEN_POWER_NAME} (${HIDDEN_POWER_TYPES[hiddenPowerType].slice(0,1)}${HIDDEN_POWER_TYPES[hiddenPowerType].slice(1).toLowerCase()})`;
+  return `${HIDDEN_POWER_NAME} (${HIDDEN_POWER_TYPES[hiddenPowerType].toLowerCase()})`;
 }
 
 

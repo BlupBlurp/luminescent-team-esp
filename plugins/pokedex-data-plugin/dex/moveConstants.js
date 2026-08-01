@@ -179,25 +179,25 @@ const DAMAGE_TYPES = [
   "Special"
 ];
 
-const HIDDEN_POWER_NAME = "Hidden Power";
+const HIDDEN_POWER_NAME = "Poder Oculto";
 
 const HIDDEN_POWER_TYPES = [
-  'FIGHTING',
-  'FLYING',
-  'POISON',
-  'GROUND',
-  'ROCK',
-  'BUG',
-  'GHOST',
-  'STEEL',
-  'FIRE',
-  'WATER',
-  'GRASS',
-  'ELECTRIC',
-  'PSYCHIC',
-  'ICE',
-  'DRAGON',
-  'DARK'
+  'LUCHA',
+  'VOLADOR',
+  'VENENO',
+  'TIERRA',
+  'ROCA',
+  'BICHO',
+  'FANTASMA',
+  'ACERO',
+  'FUEGO',
+  'AGUA',
+  'PLANTA',
+  'ELÉCTRICO',
+  'PSÍQUICO',
+  'HIELO',
+  'DRAGÓN',
+  'SINIESTRO'
 ];
 
 const Z_MOVES = [
