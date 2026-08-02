@@ -17,8 +17,8 @@ const FeatureList = [
     Svg: require('@site/static/img/LuminescentTitle.svg').default,
     description: (
       <>
-        Pokemon Luminescent Platinum is an enhancement mod for Pokemon Brilliant Diamond (and eventually Shining Pearl)
-        based heavily on Renegade Platinum by Drayano.
+        «Pokémon Luminescent Platinum» es un mod de mejora para Pokémon Diamante Brillante y Perla Reluciente
+        basado en gran medida en «Renegade Platinum», de Drayano.
       </>
     ),
   },

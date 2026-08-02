@@ -21,7 +21,7 @@ const MOVEDEX_BASE_PATH = 'moves';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Platino Luminiscente',
-  tagline: 'A BDSP ROM Hack',
+  tagline: 'Un Hack ROM para Diamante Brillante y Perla Reluciente.',
   url: 'https://luminescent.team',
   baseUrl: BASE_URL,
   onBrokenLinks: 'warn',

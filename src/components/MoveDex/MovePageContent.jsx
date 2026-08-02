@@ -69,7 +69,7 @@ const ExtendedMoveContainer = ({ gameMode, move }) => {
   return (
     <Box sx={{ display: { sm: "grid"}, gridTemplateAreas: { sm: "'a a' 'b d' 'c d'", md: "'a d' 'b d' 'c d'" }}}>
       <Card sx={{gridArea: "a"}} variant='outlined'>
-        <CardHeader title="Stat Changes" />
+        <CardHeader title="Cambios de Estadísticas" />
         {move.statChanges.some(stat => stat.statType !== "None") ? (
           <CardContent sx={{
             display:"grid",
@@ -104,10 +104,10 @@ const ExtendedMoveContainer = ({ gameMode, move }) => {
               </>
             )}
           </CardContent>
-        ) : <CardContent>{"This move doesn't change stats"}</CardContent>}
+        ) : <CardContent>{"Este movimiento no altera las estadísticas"}</CardContent>}
       </Card>
       <Card sx={{gridArea: "b"}} variant='outlined'>
-        <CardHeader title="Status Affliction" />
+        <CardHeader title="Efectos de Estado" />
         {move.statusEffects.status !== "None" ? (
           <CardContent>
             <Typography>{`Status: ${move.statusEffects.status}`}</Typography>
@@ -117,7 +117,7 @@ const ExtendedMoveContainer = ({ gameMode, move }) => {
               {`Duration: ${move.statusEffects.minDuration}-${move.statusEffects.maxDuration} turns`}
             </Typography>
           </CardContent>
-        ) : <CardContent>{"This move doesn't inflict status"}</CardContent>}
+        ) : <CardContent>{"Este movimiento no inflige efectos de estado"}</CardContent>}
       </Card>
       <Card sx={{gridArea: "c"}} variant='outlined'>
         <CardHeader title="Misc" />

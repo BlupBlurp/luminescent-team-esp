@@ -8,7 +8,7 @@ const PokedexListPage = ({ pokemonList, pokemonList3, pokemonListV }) => {
   return (
     <Layout
     title="Pokédex"
-    description="A ROM Hack for Pokémon Brilliant Diamond."
+    description="Un Hack ROM para Diamante Brillante y Perla Reluciente."
     >
       <LumiReactThemeProvider>
         <GlobalState>

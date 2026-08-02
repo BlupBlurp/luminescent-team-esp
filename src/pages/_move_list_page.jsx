@@ -9,7 +9,7 @@ const MoveDexListPage = ({ movesListV, movesList3, movesList2 }) => {
   return(
     <Layout
       title="Move Dex"
-      description="A Rom Hack for Pokémon Brilliant Diamond."
+      description="Un Hack ROM para Diamante Brillante y Perla Reluciente."
     >
       <LumiReactThemeProvider>
         <GlobalState>
