@@ -1,8 +1,8 @@
 {
-  "label": "Special Pokémon",
+  "label": "Pokémon Especiales",
   "position": 8,
   "link": {
     "type": "generated-index",
-    "description": "See where to get special Pokémon in Luminescent Platinum."
+    "description": "Descubre dónde conseguir Pokémon especiales en Platino Luminiscente."
   }
 }

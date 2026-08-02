@@ -14,47 +14,115 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
  docs: [
-    'intro',
-    'faq',
+    {
+      type: 'doc',
+      id: 'intro',
+      label: 'Introducción',
+    },
+    {
+      type: 'doc',
+      id: 'faq',
+      label: 'Preguntas frecuentes',
+    },
     {
       type: 'category',
-      label: 'Installation Guide',
+      label: 'Guía de Instalación',
       link: {
         type: 'generated-index',
         slug: 'category/installation',
-       description: 'Full installation instructions for Luminescent Platinum on various supported platforms. We recommend you use hardware, or Ryujinx if your machine is strong enough for it.',
+       description: 'Instrucciones completas para instalar Platino Luminiscente en varias plataformas compatibles. Recomendamos usar hardware, o Ryujinx si tu máquina es lo bastante potente para ello.',
       },
       collapsed: true,
       items: [
-        'installation/atmosphere',
-        'installation/ryujinx',
-        'installation/android',
+        {
+          type: 'doc',
+          id: 'installation/atmosphere',
+          label: 'Atmosphere',
+        },
+        {
+          type: 'doc',
+          id: 'installation/ryujinx',
+          label: 'Ryujinx',
+        },
+        {
+          type: 'doc',
+          id: 'installation/android',
+          label: 'Android',
+        },
       ],
     },
-  'features',
-  'incense-regional',
+  {
+      type: 'doc',
+      id: 'features',
+      label: 'Características',
+    },
+  {
+      type: 'doc',
+      id: 'incense-regional',
+      label: 'Incienso y Regionales',
+    },
   {
       type: 'category',
-      label: 'Special Pokémon',
+      label: 'Pokémon Especiales',
       link: {
         type: 'generated-index',
         slug: 'category/special-events',
-        description: 'See where to get special Pokémon in Luminescent Platinum. When possible, shiny hunting has been made as easy as possible for your convenience!',
+        description: 'Descubre dónde conseguir Pokémon especiales en Platino Luminiscente. ¡Siempre que es posible, la caza de shinys se ha facilitado al máximo para tu comodidad!',
       },
       collapsed: true,
       items: [
-        'special-events/gifts',
-        'special-events/static',
-        'special-events/legendaries',
-        'special-events/trade',
+        {
+          type: 'doc',
+          id: 'special-events/gifts',
+          label: 'Pokémon de Regalo',
+        },
+        {
+          type: 'doc',
+          id: 'special-events/static',
+          label: 'Encuentros Estáticos',
+        },
+        {
+          type: 'doc',
+          id: 'special-events/legendaries',
+          label: 'Encuentros Legendarios',
+        },
+        {
+          type: 'doc',
+          id: 'special-events/trade',
+          label: 'Intercambios',
+        },
       ],
     },
-  'evolutions',
-  'npc',
-  'items',
-  'pickup',
-  'mods',
-  'changelog',
+  {
+      type: 'doc',
+      id: 'evolutions',
+      label: 'Evoluciones',
+    },
+  {
+      type: 'doc',
+      id: 'npc',
+      label: 'NPCs Útiles',
+    },
+  {
+      type: 'doc',
+      id: 'items',
+      label: 'Objetos y MTs',
+    },
+  {
+      type: 'doc',
+      id: 'pickup',
+      label: 'Cambios de Recogida',
+    },
+  {
+      type: 'doc',
+      id: 'mods',
+      label: 'Mods PreIncluidos',
+    },
+  {
+      type: 'doc',
+      id: 'changelog',
+      label: 'Registro de Cambios',
+    },
   ],
   };
   // But you can create a sidebar manually
