@@ -204,9 +204,9 @@ const config = {
             ],
           },
           {
-            'aria-label': 'Spanish Site',
-            className: 'navbar--spanish-link',
-            href: 'https://blupblurp.github.io/luminescent-team-esp/',
+            'aria-label': 'English Site',
+            className: 'navbar--english-link',
+            href: 'https://luminescent.team/',
             position: 'right',
           },
           {
@@ -216,8 +216,8 @@ const config = {
             position: 'left',
             items: [
               {
-                label: 'Español',
-                href: 'https://blupblurp.github.io/luminescent-team-esp/',
+                label: 'English',
+                href: 'https://luminescent.team/',
               },
             ],
           },
