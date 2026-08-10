@@ -8,7 +8,6 @@ import { ImageWithFallback } from '../../common/ImageWithFallback';
 
 import '.././style.css';
 import { PokemonAbility } from '../../Pokedex2/PokemonAbilities';
-import { GAMEDATA3 } from '../../../../__gamedata';
 import { calcHiddenPower, getHiddenPowerNameWithType } from '../../../../plugins/pokedex-data-plugin/dex/moves';
 import { HIDDEN_POWER_NAME } from '../../../../plugins/pokedex-data-plugin/dex/moveConstants';
 

@@ -22,7 +22,6 @@ import { getMoveProperties, getPokemonName } from '../../../utils/dex';
 import { getFullTrainerById } from '../../../utils/dex/trainers';
 import { Trainers } from "./Trainers";
 import { TrainerSearchInput } from "../SearchBar";
-import { GAMEDATA3 } from "../../../../__gamedata";
 
 const TrainersModal = ({
   showModal,
@@ -167,7 +166,7 @@ const TrainersModal = ({
 
   const handleTrainerSearchSelect = (searchTrainer) => {
     if (!searchTrainer) return;
-    const fullTrainer = getFullTrainerById(searchTrainer.trainerId, GAMEDATA3);
+    const fullTrainer = getFullTrainerById(searchTrainer.trainerId);
     if (!fullTrainer) return;
 
     const existingIdx = trainerTabs.findIndex(t => t.trainerId === fullTrainer.trainerId);
@@ -230,7 +229,7 @@ ${moves}`;
 
   const handleLoadAllBossTeams = () => {
     const fullTrainers = bossTeamIds
-      .map(id => getFullTrainerById(id, GAMEDATA3))
+      .map(id => getFullTrainerById(id))
       .filter(Boolean);
     if (fullTrainers.length > 1) {
       setTrainerTabs(fullTrainers);
